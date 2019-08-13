@@ -1,0 +1,1206 @@
+Year,Region,Country,Buddhists,Christians,Folk Religions,Hindus,Jews,Muslims,Other Religions,Unaffiliated
+2010, World, All Countries,7.1,31.4,5.9,15.0,1.0,23.2,1.0,16.4
+2010,North America, All Countries,1.1,77.4,1.0,1.0,1.8,1.0,1.0,17.1
+2010,Latin America-Caribbean, All Countries,1.0,90.0,1.7,1.0,1.0,1.0,1.0,7.7
+2010,Europe, All Countries,1.0,74.5,1.0,1.0,1.0,5.9,1.0,18.8
+2010,Middle East-North Africa, All Countries,1.0,3.7,1.0,1.0,1.6,93.0,1.0,1.0
+2010,Sub-Saharan Africa, All Countries,1.0,62.9,3.3,1.0,1.0,30.2,1.0,3.2
+2010,Asia-Pacific, All Countries,11.9,7.1,9.0,25.3,1.0,24.3,1.3,21.2
+2010,Asia-Pacific,Afghanistan,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2010,Europe,Albania,1.0,18.0,1.0,1.0,1.0,80.3,1.0,1.4
+2010,Middle East-North Africa,Algeria,1.0,1.0,1.0,1.0,1.0,97.9,1.0,1.8
+2010,Asia-Pacific,American Samoa,1.0,98.3,1.0,1.0,1.0,1.0,1.0,1.0
+2010,Europe,Andorra,1.0,89.5,1.0,1.0,1.0,1.0,1.0,8.8
+2010,Sub-Saharan Africa,Angola,1.0,90.5,4.2,1.0,1.0,1.0,1.0,5.1
+2010,Latin America-Caribbean,Anguilla,1.0,90.6,2.9,1.0,1.0,1.0,1.6,4.0
+2010,Latin America-Caribbean,Antigua and Barbuda,1.0,93.0,3.6,1.0,1.0,1.0,1.0,1.7
+2010,Latin America-Caribbean,Argentina,1.0,85.2,1.0,1.0,1.0,1.0,1.0,12.2
+2010,Asia-Pacific,Armenia,1.0,98.5,1.0,1.0,1.0,1.0,1.0,1.3
+2010,Latin America-Caribbean,Aruba,1.0,91.9,1.3,1.0,1.0,1.0,1.0,6.0
+2010,Asia-Pacific,Australia,2.7,67.3,1.0,1.4,1.0,2.4,1.0,24.2
+2010,Europe,Austria,1.0,80.4,1.0,1.0,1.0,5.4,1.0,13.5
+2010,Asia-Pacific,Azerbaijan,1.0,3.0,1.0,1.0,1.0,96.9,1.0,1.0
+2010,Latin America-Caribbean,Bahamas,1.0,96.0,1.0,1.0,1.0,1.0,1.0,3.1
+2010,Middle East-North Africa,Bahrain,2.5,14.5,1.0,9.8,1.0,70.3,1.0,1.9
+2010,Asia-Pacific,Bangladesh,1.0,1.0,1.0,8.5,1.0,90.4,1.0,1.0
+2010,Latin America-Caribbean,Barbados,1.0,95.2,1.0,1.0,1.0,1.0,1.4,1.9
+2010,Europe,Belarus,1.0,71.2,1.0,1.0,1.0,1.0,1.0,28.6
+2010,Europe,Belgium,1.0,64.2,1.0,1.0,1.0,5.9,1.0,29.0
+2010,Latin America-Caribbean,Belize,1.0,87.6,1.5,1.0,1.0,1.0,1.0,8.9
+2010,Sub-Saharan Africa,Benin,1.0,53.0,18.1,1.0,1.0,23.8,1.0,5.0
+2010,North America,Bermuda,1.0,75.0,3.0,1.0,1.0,1.1,1.0,19.4
+2010,Asia-Pacific,Bhutan,74.7,1.0,1.9,22.6,1.0,1.0,1.0,1.0
+2010,Latin America-Caribbean,Bolivia,1.0,93.9,1.0,1.0,1.0,1.0,1.0,4.1
+2010,Europe,Bosnia-Herzegovina,1.0,52.3,1.0,1.0,1.0,45.2,1.0,2.5
+2010,Sub-Saharan Africa,Botswana,1.0,72.1,6.0,1.0,1.0,1.0,1.0,20.6
+2010,Latin America-Caribbean,Brazil,1.0,88.9,2.8,1.0,1.0,1.0,1.0,7.9
+2010,Latin America-Caribbean,British Virgin Islands,1.0,84.5,8.4,1.2,1.0,1.2,1.0,3.9
+2010,Asia-Pacific,Brunei,8.6,9.4,6.2,1.0,1.0,75.1,1.0,1.0
+2010,Europe,Bulgaria,1.0,82.1,1.0,1.0,1.0,13.7,1.0,4.2
+2010,Sub-Saharan Africa,Burkina Faso,1.0,22.5,15.4,1.0,1.0,61.6,1.0,1.0
+2010,Sub-Saharan Africa,Burundi,1.0,91.5,5.7,1.0,1.0,2.8,1.0,1.0
+2010,Asia-Pacific,Cambodia,96.9,1.0,1.0,1.0,1.0,2.0,1.0,1.0
+2010,Sub-Saharan Africa,Cameroon,1.0,70.3,3.3,1.0,1.0,18.3,2.7,5.3
+2010,North America,Canada,1.0,69.0,1.2,1.4,1.0,2.1,1.0,23.7
+2010,Sub-Saharan Africa,Cape Verde,1.0,89.1,1.5,1.0,1.0,1.0,1.0,9.1
+2010,Latin America-Caribbean,Cayman Islands,1.0,83.5,4.5,1.0,1.0,1.0,1.0,9.4
+2010,Sub-Saharan Africa,Central African Republic,1.0,89.5,1.0,1.0,1.0,8.5,1.0,1.0
+2010,Sub-Saharan Africa,Chad,1.0,40.6,1.4,1.0,1.0,55.3,1.0,2.5
+2010,Europe,Channel Islands,1.0,85.2,1.0,1.0,1.0,1.0,1.0,14.2
+2010,Latin America-Caribbean,Chile,1.0,89.4,1.5,1.0,1.0,1.0,1.0,8.6
+2010,Asia-Pacific,China,18.2,5.1,21.9,1.0,1.0,1.8,1.0,52.2
+2010,Latin America-Caribbean,Colombia,1.0,92.5,1.0,1.0,1.0,1.0,1.0,6.6
+2010,Sub-Saharan Africa,Comoros,1.0,1.0,1.0,1.0,1.0,98.3,1.0,1.0
+2010,Sub-Saharan Africa,Republic of the Congo,1.0,85.9,2.8,1.0,1.0,1.2,1.1,9.0
+2010,Sub-Saharan Africa,Democratic Republic of the Congo,1.0,95.8,1.0,1.0,1.0,1.5,1.0,1.8
+2010,Asia-Pacific,Cook Islands,1.0,96.0,1.0,1.0,1.0,1.0,1.0,3.2
+2010,Latin America-Caribbean,Costa Rica,1.0,90.9,1.0,1.0,1.0,1.0,1.0,7.9
+2010,Sub-Saharan Africa,Ivory Coast,1.0,44.1,10.2,1.0,1.0,37.5,1.0,8.0
+2010,Europe,Croatia,1.0,93.4,1.0,1.0,1.0,1.4,1.0,5.1
+2010,Latin America-Caribbean,Cuba,1.0,59.2,17.4,1.0,1.0,1.0,1.0,23.0
+2010,Asia-Pacific,Cyprus,1.0,73.2,1.0,1.0,1.0,25.3,1.0,1.2
+2010,Europe,Czech Republic,1.0,23.3,1.0,1.0,1.0,1.0,1.0,76.4
+2010,Europe,Denmark,1.0,83.5,1.0,1.0,1.0,4.1,1.0,11.8
+2010,Sub-Saharan Africa,Djibouti,1.0,2.3,1.0,1.0,1.0,96.9,1.0,1.0
+2010,Latin America-Caribbean,Dominica,1.0,94.4,3.0,1.0,1.0,1.0,1.7,1.0
+2010,Latin America-Caribbean,Dominican Republic,1.0,88.0,1.0,1.0,1.0,1.0,1.0,10.9
+2010,Latin America-Caribbean,Ecuador,1.0,94.1,1.0,1.0,1.0,1.0,1.0,5.5
+2010,Middle East-North Africa,Egypt,1.0,5.1,1.0,1.0,1.0,94.9,1.0,1.0
+2010,Latin America-Caribbean,El Salvador,1.0,88.2,1.0,1.0,1.0,1.0,1.0,11.0
+2010,Sub-Saharan Africa,Equatorial Guinea,1.0,88.7,1.7,1.0,1.0,4.0,1.0,5.0
+2010,Sub-Saharan Africa,Eritrea,1.0,62.9,1.0,1.0,1.0,36.6,1.0,1.0
+2010,Europe,Estonia,1.0,39.9,1.0,1.0,1.0,1.0,1.0,59.6
+2010,Sub-Saharan Africa,Ethiopia,1.0,62.8,2.6,1.0,1.0,34.6,1.0,1.0
+2010,Europe,Faeroe Islands,1.0,98.0,1.0,1.0,1.0,1.0,1.0,1.7
+2010,Latin America-Caribbean,Falkland Islands (Malvinas),1.0,67.2,1.0,1.0,1.0,1.0,1.0,31.5
+2010,Asia-Pacific,Fiji,1.0,64.4,1.0,27.9,1.0,6.3,1.0,1.0
+2010,Europe,Finland,1.0,80.1,1.0,1.0,1.0,1.0,1.0,19.1
+2010,Europe,France,1.0,63.0,1.0,1.0,1.0,7.5,1.0,28.0
+2010,Latin America-Caribbean,French Guiana,1.0,84.4,9.1,1.6,1.0,1.0,1.0,3.4
+2010,Asia-Pacific,French Polynesia,1.0,94.0,1.0,1.0,1.0,1.0,1.0,4.9
+2010,Sub-Saharan Africa,Gabon,1.0,76.5,6.0,1.0,1.0,11.2,1.0,5.6
+2010,Sub-Saharan Africa,Gambia,1.0,4.5,1.0,1.0,1.0,95.1,1.0,1.0
+2010,Europe,Georgia,1.0,88.5,1.0,1.0,1.0,10.7,1.0,1.0
+2010,Europe,Germany,1.0,68.7,1.0,1.0,1.0,5.8,1.0,24.7
+2010,Sub-Saharan Africa,Ghana,1.0,74.9,4.9,1.0,1.0,15.8,1.0,4.2
+2010,Europe,Gibraltar,1.0,88.8,1.0,1.8,2.1,4.0,1.0,2.9
+2010,Europe,Greece,1.0,88.1,1.0,1.0,1.0,5.3,1.0,6.1
+2010,North America,Greenland,1.0,96.1,1.0,1.0,1.0,1.0,1.0,2.5
+2010,Latin America-Caribbean,Grenada,1.0,96.6,1.3,1.0,1.0,1.0,1.0,1.0
+2010,Latin America-Caribbean,Guadeloupe,1.0,95.9,1.0,1.0,1.0,1.0,1.0,2.5
+2010,Asia-Pacific,Guam,1.1,94.2,1.5,1.0,1.0,1.0,1.6,1.7
+2010,Latin America-Caribbean,Guatemala,1.0,95.2,1.0,1.0,1.0,1.0,1.0,4.1
+2010,Sub-Saharan Africa,Guinea,1.0,10.9,2.7,1.0,1.0,84.4,1.0,1.8
+2010,Sub-Saharan Africa,Guinea-Bissau,1.0,19.7,30.9,1.0,1.0,45.1,1.0,4.3
+2010,Latin America-Caribbean,Guyana,1.0,66.0,1.0,24.9,1.0,6.4,1.0,2.0
+2010,Latin America-Caribbean,Haiti,1.0,86.9,2.2,1.0,1.0,1.0,1.0,10.6
+2010,Europe,Vatican City,1.0,99.0,1.0,1.0,1.0,1.0,1.0,1.0
+2010,Latin America-Caribbean,Honduras,1.0,87.6,1.1,1.0,1.0,1.0,1.0,10.5
+2010,Asia-Pacific,Hong Kong,13.2,14.3,12.8,1.0,1.0,1.8,1.5,56.1
+2010,Europe,Hungary,1.0,81.0,1.0,1.0,1.0,1.0,1.0,18.6
+2010,Europe,Iceland,1.0,95.0,1.0,1.0,1.0,1.0,1.0,3.5
+2010,Asia-Pacific,India,1.0,2.5,1.0,79.5,1.0,14.4,2.3,1.0
+2010,Asia-Pacific,Indonesia,1.0,9.9,1.0,1.7,1.0,87.2,1.0,1.0
+2010,Asia-Pacific,Iran,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2010,Middle East-North Africa,Iraq,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2010,Europe,Ireland,1.0,92.0,1.0,1.0,1.0,1.1,1.0,6.2
+2010,Europe,Isle of Man,1.0,84.1,1.0,1.0,1.0,1.0,1.0,15.4
+2010,Middle East-North Africa,Israel,1.0,2.0,1.0,1.0,75.6,18.6,1.0,3.1
+2010,Europe,Italy,1.0,83.3,1.0,1.0,1.0,3.7,1.0,12.4
+2010,Latin America-Caribbean,Jamaica,1.0,77.2,4.5,1.0,1.0,1.0,1.0,17.2
+2010,Asia-Pacific,Japan,36.2,1.6,1.0,1.0,1.0,1.0,4.7,57.0
+2010,Middle East-North Africa,Jordan,1.0,2.2,1.0,1.0,1.0,97.2,1.0,1.0
+2010,Asia-Pacific,Kazakhstan,1.0,24.7,1.0,1.0,1.0,70.4,1.0,4.2
+2010,Sub-Saharan Africa,Kenya,1.0,84.8,1.7,1.0,1.0,9.7,1.2,2.5
+2010,Asia-Pacific,Kiribati,1.0,97.0,1.0,1.0,1.0,1.0,2.2,1.0
+2010,Europe,Kosovo,1.0,6.1,1.0,1.0,1.0,93.8,1.0,1.0
+2010,Middle East-North Africa,Kuwait,2.8,14.3,1.0,8.5,1.0,74.1,1.0,1.0
+2010,Asia-Pacific,Kyrgyzstan,1.0,11.4,1.0,1.0,1.0,88.0,1.0,1.0
+2010,Asia-Pacific,Laos,66.0,1.5,30.7,1.0,1.0,1.0,1.0,1.0
+2010,Europe,Latvia,1.0,55.8,1.0,1.0,1.0,1.0,1.0,43.8
+2010,Middle East-North Africa,Lebanon,1.0,38.3,1.0,1.0,1.0,61.3,1.0,1.0
+2010,Sub-Saharan Africa,Lesotho,1.0,96.8,1.0,1.0,1.0,1.0,1.0,3.1
+2010,Sub-Saharan Africa,Liberia,1.0,85.9,1.0,1.0,1.0,12.0,1.0,1.4
+2010,Middle East-North Africa,Libya,1.0,2.7,1.0,1.0,1.0,96.6,1.0,1.0
+2010,Europe,Liechtenstein,1.0,91.9,1.0,1.0,1.0,5.0,1.0,2.9
+2010,Europe,Lithuania,1.0,89.8,1.0,1.0,1.0,1.0,1.0,10.0
+2010,Europe,Luxembourg,1.0,70.4,1.0,1.0,1.0,2.3,1.0,26.8
+2010,Asia-Pacific,Macau,17.3,7.2,58.9,1.0,1.0,1.0,1.0,15.4
+2010,Europe,Republic of Macedonia,1.0,59.3,1.0,1.0,1.0,39.3,1.0,1.4
+2010,Sub-Saharan Africa,Madagascar,1.0,85.3,4.5,1.0,1.0,3.0,1.0,6.9
+2010,Sub-Saharan Africa,Malawi,1.0,82.7,1.7,1.0,1.0,13.0,1.0,2.5
+2010,Asia-Pacific,Malaysia,17.7,9.4,2.3,6.0,1.0,63.7,1.0,1.0
+2010,Asia-Pacific,Maldives,1.0,1.0,1.0,1.0,1.0,98.4,1.0,1.0
+2010,Sub-Saharan Africa,Mali,1.0,2.4,2.7,1.0,1.0,94.4,1.0,1.0
+2010,Europe,Malta,1.0,97.0,1.0,1.0,1.0,1.0,1.0,2.5
+2010,Asia-Pacific,Marshall Islands,1.0,97.5,1.0,1.0,1.0,1.0,1.0,1.5
+2010,Latin America-Caribbean,Martinique,1.0,96.5,1.0,1.0,1.0,1.0,1.0,2.3
+2010,Sub-Saharan Africa,Mauritania,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2010,Sub-Saharan Africa,Mauritius,1.0,32.7,1.0,48.5,1.0,17.3,1.0,1.0
+2010,Sub-Saharan Africa,Mayotte,1.0,1.0,1.0,1.0,1.0,98.6,1.0,1.0
+2010,Latin America-Caribbean,Mexico,1.0,95.1,1.0,1.0,1.0,1.0,1.0,4.7
+2010,Asia-Pacific,Federated States of Micronesia,1.0,95.3,2.7,1.0,1.0,1.0,1.0,1.0
+2010,Europe,Moldova,1.0,97.4,1.0,1.0,1.0,1.0,1.0,1.4
+2010,Europe,Monaco,1.0,86.0,1.0,1.0,1.7,1.0,1.0,11.7
+2010,Asia-Pacific,Mongolia,55.1,2.3,3.5,1.0,1.0,3.2,1.0,35.9
+2010,Europe,Montenegro,1.0,78.1,1.0,1.0,1.0,18.7,1.0,3.2
+2010,Latin America-Caribbean,Montserrat,1.0,93.5,1.0,1.0,1.0,1.0,1.5,4.8
+2010,Middle East-North Africa,Morocco,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2010,Sub-Saharan Africa,Mozambique,1.0,56.7,7.4,1.0,1.0,18.0,1.0,17.9
+2010,Asia-Pacific,Burma (Myanmar),80.1,7.8,5.8,1.7,1.0,4.0,1.0,1.0
+2010,Sub-Saharan Africa,Namibia,1.0,97.5,1.0,1.0,1.0,1.0,1.0,1.9
+2010,Asia-Pacific,Nauru,1.1,79.0,8.1,1.0,1.0,1.0,7.4,4.5
+2010,Asia-Pacific,Nepal,10.3,1.0,3.7,80.7,1.0,4.6,1.0,1.0
+2010,Europe,Netherlands,1.0,50.6,1.0,1.0,1.0,6.0,1.0,42.1
+2010,Asia-Pacific,New Caledonia,1.0,85.2,1.0,1.0,1.0,2.8,1.0,10.4
+2010,Asia-Pacific,New Zealand,1.6,57.0,1.0,2.1,1.0,1.2,1.0,36.6
+2010,Latin America-Caribbean,Nicaragua,1.0,85.8,1.4,1.0,1.0,1.0,1.0,12.5
+2010,Sub-Saharan Africa,Niger,1.0,1.0,1.0,1.0,1.0,98.4,1.0,1.0
+2010,Sub-Saharan Africa,Nigeria,1.0,49.3,1.4,1.0,1.0,48.8,1.0,1.0
+2010,Asia-Pacific,Niue,1.0,96.4,1.0,1.0,1.0,1.0,1.0,3.3
+2010,Asia-Pacific,North Korea,1.5,2.0,12.3,1.0,1.0,1.0,12.9,71.3
+2010,Asia-Pacific,Northern Mariana Islands,10.6,81.3,5.3,1.0,1.0,1.0,1.1,1.0
+2010,Europe,Norway,1.0,84.7,1.0,1.0,1.0,3.7,1.0,10.1
+2010,Middle East-North Africa,Oman,1.0,6.5,1.0,5.5,1.0,85.9,1.0,1.0
+2010,Asia-Pacific,Pakistan,1.0,1.6,1.0,1.9,1.0,96.4,1.0,1.0
+2010,Asia-Pacific,Palau,1.0,86.7,1.0,1.0,1.0,1.0,10.4,1.2
+2010,Middle East-North Africa,Palestinian territories,1.0,2.4,1.0,1.0,1.0,97.6,1.0,1.0
+2010,Latin America-Caribbean,Panama,1.0,93.0,1.0,1.0,1.0,1.0,1.0,4.8
+2010,Asia-Pacific,Papua New Guinea,1.0,99.0,1.0,1.0,1.0,1.0,1.0,1.0
+2010,Latin America-Caribbean,Paraguay,1.0,96.9,1.7,1.0,1.0,1.0,1.0,1.1
+2010,Latin America-Caribbean,Peru,1.0,95.5,1.0,1.0,1.0,1.0,1.0,3.0
+2010,Asia-Pacific,Philippines,1.0,92.6,1.5,1.0,1.0,5.5,1.0,1.0
+2010,Europe,Poland,1.0,94.3,1.0,1.0,1.0,1.0,1.0,5.6
+2010,Europe,Portugal,1.0,91.9,1.0,1.0,1.0,1.0,1.0,7.5
+2010,Latin America-Caribbean,Puerto Rico,1.0,96.7,1.0,1.0,1.0,1.0,1.0,1.9
+2010,Middle East-North Africa,Qatar,3.1,13.8,1.0,13.8,1.0,67.7,1.0,1.0
+2010,Sub-Saharan Africa,Reunion,1.0,87.6,1.0,4.5,1.0,4.2,1.1,2.0
+2010,Europe,Romania,1.0,99.0,1.0,1.0,1.0,1.0,1.0,1.0
+2010,Europe,Russia,1.0,73.3,1.0,1.0,1.0,10.0,1.0,16.2
+2010,Sub-Saharan Africa,Rwanda,1.0,93.4,1.0,1.0,1.0,1.8,1.0,3.6
+2010,Sub-Saharan Africa,St. Helena,1.0,96.5,1.0,1.0,1.0,1.0,1.0,3.3
+2010,Latin America-Caribbean,St. Kitts and Nevis,1.0,94.6,1.3,1.5,1.0,1.0,1.0,1.6
+2010,Latin America-Caribbean,St. Lucia,1.0,91.1,1.0,1.0,1.0,1.0,2.0,6.0
+2010,North America,St. Pierre and Miquelon,1.0,94.7,1.0,1.0,1.0,1.0,1.3,3.8
+2010,Latin America-Caribbean,St. Vincent and the Grenadines,1.0,88.7,2.0,3.4,1.0,1.5,2.0,2.5
+2010,Asia-Pacific,Samoa,1.0,96.8,1.0,1.0,1.0,1.0,1.0,2.5
+2010,Europe,San Marino,1.0,91.6,1.0,1.0,1.0,1.0,1.0,7.2
+2010,Sub-Saharan Africa,Sao Tome and Principe,1.0,82.2,2.9,1.0,1.0,1.0,2.4,12.6
+2010,Middle East-North Africa,Saudi Arabia,1.0,4.4,1.0,1.1,1.0,93.0,1.0,1.0
+2010,Sub-Saharan Africa,Senegal,1.0,3.6,1.0,1.0,1.0,96.4,1.0,1.0
+2010,Europe,Serbia,1.0,92.6,1.0,1.0,1.0,4.1,1.0,3.3
+2010,Sub-Saharan Africa,Seychelles,1.0,94.0,1.0,2.1,1.0,1.1,1.0,2.1
+2010,Sub-Saharan Africa,Sierra Leone,1.0,20.9,1.0,1.0,1.0,78.0,1.0,1.0
+2010,Asia-Pacific,Singapore,33.9,18.2,2.3,5.2,1.0,14.3,9.7,16.4
+2010,Europe,Slovakia,1.0,85.3,1.0,1.0,1.0,1.0,1.0,14.3
+2010,Europe,Slovenia,1.0,78.4,1.0,1.0,1.0,3.6,1.0,18.0
+2010,Asia-Pacific,Solomon Islands,1.0,97.4,1.3,1.0,1.0,1.0,1.0,1.0
+2010,Sub-Saharan Africa,Somalia,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2010,Sub-Saharan Africa,South Africa,1.0,81.2,1.0,1.1,1.0,1.7,1.0,14.9
+2010,Asia-Pacific,South Korea,22.9,29.4,1.0,1.0,1.0,1.0,1.0,46.4
+2010,Europe,Spain,1.0,78.6,1.0,1.0,1.0,2.1,1.0,19.0
+2010,Asia-Pacific,Sri Lanka,69.3,7.3,1.0,13.6,1.0,9.8,1.0,1.0
+2010,Middle East-North Africa,Sudan,1.0,5.4,2.8,1.0,1.0,90.7,1.0,1.0
+2010,Latin America-Caribbean,Suriname,1.0,51.6,5.3,19.8,1.0,15.2,1.8,5.4
+2010,Sub-Saharan Africa,Swaziland,1.0,88.1,1.0,1.0,1.0,1.0,1.0,10.1
+2010,Europe,Sweden,1.0,67.2,1.0,1.0,1.0,4.6,1.0,27.0
+2010,Europe,Switzerland,1.0,72.7,1.0,1.0,1.0,4.9,1.0,20.9
+2010,Middle East-North Africa,Syria,1.0,5.2,1.0,1.0,1.0,92.8,1.0,2.0
+2010,Asia-Pacific,Taiwan,21.3,5.5,44.2,1.0,1.0,1.0,16.2,12.7
+2010,Asia-Pacific,Tajikistan,1.0,1.6,1.0,1.0,1.0,96.7,1.0,1.5
+2010,Sub-Saharan Africa,Tanzania,1.0,61.4,1.8,1.0,1.0,35.2,1.0,1.4
+2010,Asia-Pacific,Thailand,93.2,1.0,1.0,1.0,1.0,5.5,1.0,1.0
+2010,Asia-Pacific,Timor-Leste,1.0,99.0,1.0,1.0,1.0,1.0,1.0,1.0
+2010,Sub-Saharan Africa,Togo,1.0,43.7,35.6,1.0,1.0,14.0,1.0,6.2
+2010,Asia-Pacific,Tokelau,1.0,99.0,1.0,1.0,1.0,1.0,1.0,1.0
+2010,Asia-Pacific,Tonga,1.0,98.9,1.0,1.0,1.0,1.0,1.0,1.0
+2010,Latin America-Caribbean,Trinidad and Tobago,1.0,65.9,1.9,22.7,1.0,5.9,1.4,1.9
+2010,Middle East-North Africa,Tunisia,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2010,Asia-Pacific,Turkey,1.0,1.0,1.0,1.0,1.0,98.0,1.0,1.2
+2010,Asia-Pacific,Turkmenistan,1.0,6.4,1.0,1.0,1.0,93.0,1.0,1.0
+2010,Latin America-Caribbean,Turks and Caicos Islands,1.0,92.1,2.7,1.0,1.0,1.0,1.0,4.6
+2010,Asia-Pacific,Tuvalu,1.0,96.7,1.0,1.0,1.0,1.0,1.9,1.3
+2010,Sub-Saharan Africa,Uganda,1.0,86.7,1.0,1.0,1.0,11.5,1.0,1.0
+2010,Europe,Ukraine,1.0,83.8,1.0,1.0,1.0,1.2,1.0,14.7
+2010,Middle East-North Africa,United Arab Emirates,2.0,12.6,1.0,6.6,1.0,76.9,1.0,1.1
+2010,Europe,United Kingdom,1.0,64.3,1.0,1.4,1.0,4.8,1.0,27.8
+2010,North America,United States,1.2,78.3,1.0,1.0,1.8,1.0,1.0,16.4
+2010,Latin America-Caribbean,U.S. Virgin Islands,1.0,94.8,1.0,1.0,1.0,1.0,1.0,3.7
+2010,Latin America-Caribbean,Uruguay,1.0,57.9,1.0,1.0,1.0,1.0,1.0,40.7
+2010,Asia-Pacific,Uzbekistan,1.0,2.3,1.0,1.0,1.0,96.7,1.0,1.0
+2010,Asia-Pacific,Vanuatu,1.0,93.3,4.1,1.0,1.0,1.0,1.4,1.2
+2010,Latin America-Caribbean,Venezuela,1.0,89.3,1.0,1.0,1.0,1.0,1.0,10.0
+2010,Asia-Pacific,Vietnam,16.4,8.2,45.3,1.0,1.0,1.0,1.0,29.6
+2010,Asia-Pacific,Wallis and Futuna,1.0,97.4,1.2,1.0,1.0,1.0,1.0,1.0
+2010,Middle East-North Africa,Western Sahara,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2010,Middle East-North Africa,Yemen,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2010,Sub-Saharan Africa,Zambia,1.0,97.6,1.0,1.0,1.0,1.0,1.0,1.0
+2010,Sub-Saharan Africa,Zimbabwe,1.0,87.0,3.8,1.0,1.0,1.0,1.0,7.9
+2010,Sub-Saharan Africa,South Sudan,1.0,60.5,32.9,1.0,1.0,6.2,1.0,1.0
+2010,Latin America-Caribbean,Curacao,1.0,93.9,1.2,1.0,1.0,1.0,1.0,3.3
+2010,Latin America-Caribbean,Sint Maarten,1.0,93.9,1.2,1.0,1.0,1.0,1.0,3.3
+2010,Latin America-Caribbean,Caribbean Netherlands,1.0,93.9,1.2,1.0,1.0,1.0,1.0,3.3
+2020, World, All Countries,6.6,31.1,5.6,15.2,1.0,24.9,1.0,15.6
+2020,North America, All Countries,1.2,74.6,1.0,1.0,1.6,1.3,1.0,19.2
+2020,Latin America-Caribbean, All Countries,1.0,89.7,1.8,1.0,1.0,1.0,1.0,8.0
+2020,Europe, All Countries,1.0,72.2,1.0,1.0,1.0,6.8,1.0,20.0
+2020,Middle East-North Africa, All Countries,1.0,3.6,1.0,1.0,1.6,93.1,1.0,1.0
+2020,Sub-Saharan Africa, All Countries,1.0,62.0,3.2,1.0,1.0,31.4,1.0,3.0
+2020,Asia-Pacific, All Countries,11.3,7.2,8.6,26.0,1.0,25.7,1.2,20.0
+2020,Asia-Pacific,Afghanistan,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2020,Europe,Albania,1.0,16.7,1.0,1.0,1.0,82.1,1.0,1.0
+2020,Middle East-North Africa,Algeria,1.0,1.0,1.0,1.0,1.0,97.9,1.0,1.8
+2020,Asia-Pacific,American Samoa,1.0,98.3,1.0,1.0,1.0,1.0,1.0,1.0
+2020,Europe,Andorra,1.0,89.5,1.0,1.0,1.0,1.0,1.0,8.8
+2020,Sub-Saharan Africa,Angola,1.0,90.5,4.2,1.0,1.0,1.0,1.0,5.2
+2020,Latin America-Caribbean,Anguilla,1.0,90.6,2.9,1.0,1.0,1.0,1.6,4.0
+2020,Latin America-Caribbean,Antigua and Barbuda,1.0,93.0,3.6,1.0,1.0,1.0,1.0,1.7
+2020,Latin America-Caribbean,Argentina,1.0,85.4,1.0,1.0,1.0,1.0,1.0,12.1
+2020,Asia-Pacific,Armenia,1.0,98.3,1.0,1.0,1.0,1.0,1.0,1.3
+2020,Latin America-Caribbean,Aruba,1.0,91.6,1.3,1.0,1.0,1.0,1.0,6.2
+2020,Asia-Pacific,Australia,2.9,61.7,1.0,1.7,1.0,3.0,1.0,28.6
+2020,Europe,Austria,1.0,78.4,1.0,1.0,1.0,6.2,1.0,14.5
+2020,Asia-Pacific,Azerbaijan,1.0,2.6,1.0,1.0,1.0,97.3,1.0,1.0
+2020,Latin America-Caribbean,Bahamas,1.0,96.2,1.0,1.0,1.0,1.0,1.0,3.0
+2020,Middle East-North Africa,Bahrain,3.1,14.1,1.0,10.2,1.0,69.7,1.0,2.0
+2020,Asia-Pacific,Bangladesh,1.0,1.0,1.0,8.2,1.0,90.8,1.0,1.0
+2020,Latin America-Caribbean,Barbados,1.0,95.2,1.0,1.0,1.0,1.0,1.4,1.9
+2020,Europe,Belarus,1.0,70.7,1.0,1.0,1.0,1.0,1.0,28.6
+2020,Europe,Belgium,1.0,60.5,1.0,1.0,1.0,7.5,1.0,31.0
+2020,Latin America-Caribbean,Belize,1.0,87.6,1.5,1.0,1.1,1.0,1.0,9.0
+2020,Sub-Saharan Africa,Benin,1.0,52.2,17.9,1.0,1.0,24.6,1.0,5.2
+2020,North America,Bermuda,1.0,75.0,3.0,1.0,1.0,1.1,1.0,19.4
+2020,Asia-Pacific,Bhutan,74.7,1.0,1.9,22.5,1.0,1.0,1.0,1.0
+2020,Latin America-Caribbean,Bolivia,1.0,94.0,1.0,1.0,1.0,1.0,1.0,4.1
+2020,Europe,Bosnia-Herzegovina,1.0,51.1,1.0,1.0,1.0,46.5,1.0,2.4
+2020,Sub-Saharan Africa,Botswana,1.0,76.4,4.4,1.0,1.0,1.0,1.0,17.5
+2020,Latin America-Caribbean,Brazil,1.0,88.1,3.2,1.0,1.0,1.0,1.0,8.4
+2020,Latin America-Caribbean,British Virgin Islands,1.0,84.5,8.4,1.2,1.0,1.2,1.0,3.9
+2020,Asia-Pacific,Brunei,8.6,9.4,6.2,1.0,1.0,75.1,1.0,1.0
+2020,Europe,Bulgaria,1.0,81.0,1.0,1.0,1.0,14.2,1.0,4.7
+2020,Sub-Saharan Africa,Burkina Faso,1.0,21.7,15.1,1.0,1.0,62.7,1.0,1.0
+2020,Sub-Saharan Africa,Burundi,1.0,91.0,6.0,1.0,1.0,2.9,1.0,1.0
+2020,Asia-Pacific,Cambodia,96.8,1.0,1.0,1.0,1.0,2.0,1.0,1.0
+2020,Sub-Saharan Africa,Cameroon,1.0,69.6,3.2,1.0,1.0,19.3,2.7,5.2
+2020,North America,Canada,1.0,66.4,1.2,1.7,1.1,2.8,1.2,24.5
+2020,Sub-Saharan Africa,Cape Verde,1.0,89.3,1.4,1.0,1.0,1.0,1.0,9.0
+2020,Latin America-Caribbean,Cayman Islands,1.0,83.5,4.5,1.0,1.0,1.0,1.0,9.4
+2020,Sub-Saharan Africa,Central African Republic,1.0,89.0,1.0,1.0,1.0,9.0,1.0,1.0
+2020,Sub-Saharan Africa,Chad,1.0,41.1,1.3,1.0,1.0,55.1,1.0,2.4
+2020,Europe,Channel Islands,1.0,85.2,1.0,1.0,1.0,1.0,1.0,14.2
+2020,Latin America-Caribbean,Chile,1.0,88.3,1.5,1.0,1.0,1.0,1.0,9.7
+2020,Asia-Pacific,China,18.3,5.2,21.9,1.0,1.0,2.0,1.0,51.8
+2020,Latin America-Caribbean,Colombia,1.0,92.3,1.0,1.0,1.0,1.0,1.0,6.7
+2020,Sub-Saharan Africa,Comoros,1.0,1.0,1.0,1.0,1.0,98.3,1.0,1.0
+2020,Sub-Saharan Africa,Republic of the Congo,1.0,87.1,2.7,1.0,1.0,1.2,1.0,8.0
+2020,Sub-Saharan Africa,Democratic Republic of the Congo,1.0,95.8,1.0,1.0,1.0,1.5,1.0,1.7
+2020,Asia-Pacific,Cook Islands,1.0,96.0,1.0,1.0,1.0,1.0,1.0,3.2
+2020,Latin America-Caribbean,Costa Rica,1.0,90.8,1.0,1.0,1.0,1.0,1.0,8.0
+2020,Sub-Saharan Africa,Ivory Coast,1.0,44.0,10.5,1.0,1.0,37.2,1.0,8.1
+2020,Europe,Croatia,1.0,93.3,1.0,1.0,1.0,1.6,1.0,5.1
+2020,Latin America-Caribbean,Cuba,1.0,58.9,17.6,1.0,1.0,1.0,1.0,23.2
+2020,Asia-Pacific,Cyprus,1.0,72.3,1.0,1.0,1.0,25.0,1.0,1.9
+2020,Europe,Czech Republic,1.0,20.9,1.0,1.0,1.0,1.0,1.0,78.4
+2020,Europe,Denmark,1.0,81.9,1.0,1.0,1.0,5.1,1.0,12.0
+2020,Sub-Saharan Africa,Djibouti,1.0,2.3,1.0,1.0,1.0,96.9,1.0,1.0
+2020,Latin America-Caribbean,Dominica,1.0,94.4,3.0,1.0,1.0,1.0,1.7,1.0
+2020,Latin America-Caribbean,Dominican Republic,1.0,88.0,1.0,1.0,1.0,1.0,1.0,10.9
+2020,Latin America-Caribbean,Ecuador,1.0,94.0,1.0,1.0,1.0,1.0,1.0,5.6
+2020,Middle East-North Africa,Egypt,1.0,4.7,1.0,1.0,1.0,95.3,1.0,1.0
+2020,Latin America-Caribbean,El Salvador,1.0,88.0,1.0,1.0,1.0,1.0,1.0,11.2
+2020,Sub-Saharan Africa,Equatorial Guinea,1.0,88.7,1.7,1.0,1.0,4.0,1.0,5.0
+2020,Sub-Saharan Africa,Eritrea,1.0,62.9,1.0,1.0,1.0,36.6,1.0,1.0
+2020,Europe,Estonia,1.0,39.3,1.0,1.0,1.0,1.0,1.0,60.2
+2020,Sub-Saharan Africa,Ethiopia,1.0,61.9,2.1,1.0,1.0,35.9,1.0,1.0
+2020,Europe,Faeroe Islands,1.0,98.0,1.0,1.0,1.0,1.0,1.0,1.7
+2020,Latin America-Caribbean,Falkland Islands (Malvinas),1.0,67.2,1.0,1.0,1.0,1.0,1.0,31.5
+2020,Asia-Pacific,Fiji,1.0,64.4,1.0,27.9,1.0,6.3,1.0,1.0
+2020,Europe,Finland,1.0,77.7,1.0,1.0,1.0,1.3,1.0,20.8
+2020,Europe,France,1.0,58.1,1.0,1.0,1.0,8.3,1.0,31.9
+2020,Latin America-Caribbean,French Guiana,1.0,84.0,8.6,1.4,1.0,1.3,1.0,3.9
+2020,Asia-Pacific,French Polynesia,1.0,94.0,1.0,1.0,1.0,1.0,1.0,4.9
+2020,Sub-Saharan Africa,Gabon,1.0,75.6,5.7,1.0,1.0,12.2,1.0,5.7
+2020,Sub-Saharan Africa,Gambia,1.0,4.2,1.0,1.0,1.0,95.3,1.0,1.0
+2020,Europe,Georgia,1.0,87.6,1.0,1.0,1.0,11.6,1.0,1.0
+2020,Europe,Germany,1.0,66.0,1.0,1.0,1.0,6.9,1.0,26.3
+2020,Sub-Saharan Africa,Ghana,1.0,73.6,4.9,1.0,1.0,17.5,1.0,3.8
+2020,Europe,Gibraltar,1.0,88.8,1.0,1.8,2.1,4.0,1.0,2.9
+2020,Europe,Greece,1.0,87.6,1.0,1.0,1.0,5.9,1.0,6.1
+2020,North America,Greenland,1.0,96.1,1.0,1.0,1.0,1.0,1.0,2.5
+2020,Latin America-Caribbean,Grenada,1.0,96.6,1.3,1.0,1.0,1.0,1.0,1.0
+2020,Latin America-Caribbean,Guadeloupe,1.0,95.9,1.0,1.0,1.0,1.0,1.0,2.5
+2020,Asia-Pacific,Guam,1.1,94.2,1.5,1.0,1.0,1.0,1.6,1.7
+2020,Latin America-Caribbean,Guatemala,1.0,95.3,1.0,1.0,1.0,1.0,1.0,3.9
+2020,Sub-Saharan Africa,Guinea,1.0,10.8,2.7,1.0,1.0,84.6,1.0,1.8
+2020,Sub-Saharan Africa,Guinea-Bissau,1.0,18.9,30.6,1.0,1.0,46.1,1.0,4.4
+2020,Latin America-Caribbean,Guyana,1.0,67.9,1.0,23.3,1.0,6.1,1.0,2.0
+2020,Latin America-Caribbean,Haiti,1.0,87.0,2.1,1.0,1.0,1.0,1.0,10.7
+2020,Europe,Vatican City,1.0,99.0,1.0,1.0,1.0,1.0,1.0,1.0
+2020,Latin America-Caribbean,Honduras,1.0,87.5,1.1,1.0,1.0,1.0,1.0,10.5
+2020,Asia-Pacific,Hong Kong,13.3,14.9,13.0,1.0,1.0,2.1,1.5,54.7
+2020,Europe,Hungary,1.0,79.3,1.0,1.0,1.0,1.0,1.0,20.3
+2020,Europe,Iceland,1.0,94.0,1.0,1.0,1.0,1.0,1.0,3.9
+2020,Asia-Pacific,India,1.0,2.4,1.0,78.9,1.0,15.4,2.1,1.0
+2020,Asia-Pacific,Indonesia,1.0,10.2,1.0,1.6,1.0,87.0,1.0,1.0
+2020,Asia-Pacific,Iran,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2020,Middle East-North Africa,Iraq,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2020,Europe,Ireland,1.0,89.7,1.0,1.0,1.0,1.5,1.0,7.9
+2020,Europe,Isle of Man,1.0,84.1,1.0,1.0,1.0,1.0,1.0,15.4
+2020,Middle East-North Africa,Israel,1.0,2.0,1.0,1.0,74.0,20.1,1.0,3.2
+2020,Europe,Italy,1.0,80.8,1.0,1.0,1.0,4.9,1.0,13.4
+2020,Latin America-Caribbean,Jamaica,1.0,77.3,4.6,1.0,1.0,1.0,1.0,17.0
+2020,Asia-Pacific,Japan,33.2,1.8,1.0,1.0,1.0,1.0,4.5,60.0
+2020,Middle East-North Africa,Jordan,1.0,2.1,1.0,1.0,1.0,97.1,1.0,1.0
+2020,Asia-Pacific,Kazakhstan,1.0,23.1,1.0,1.0,1.0,72.0,1.0,4.0
+2020,Sub-Saharan Africa,Kenya,1.0,84.5,1.5,1.0,1.0,10.5,1.1,2.3
+2020,Asia-Pacific,Kiribati,1.0,97.0,1.0,1.0,1.0,1.0,2.2,1.0
+2020,Europe,Kosovo,1.0,5.6,1.0,1.0,1.0,94.3,1.0,1.0
+2020,Middle East-North Africa,Kuwait,5.4,13.6,1.0,9.9,1.0,70.7,1.0,1.0
+2020,Asia-Pacific,Kyrgyzstan,1.0,10.0,1.0,1.0,1.0,89.4,1.0,1.0
+2020,Asia-Pacific,Laos,64.0,1.5,32.8,1.0,1.0,1.0,1.0,1.0
+2020,Europe,Latvia,1.0,54.3,1.0,1.0,1.0,1.0,1.0,45.3
+2020,Middle East-North Africa,Lebanon,1.0,38.4,1.0,1.0,1.0,61.2,1.0,1.0
+2020,Sub-Saharan Africa,Lesotho,1.0,97.0,1.0,1.0,1.0,1.0,1.0,2.8
+2020,Sub-Saharan Africa,Liberia,1.0,86.2,1.0,1.0,1.0,11.7,1.0,1.4
+2020,Middle East-North Africa,Libya,1.0,2.7,1.0,1.0,1.0,96.6,1.0,1.0
+2020,Europe,Liechtenstein,1.0,91.9,1.0,1.0,1.0,5.0,1.0,2.9
+2020,Europe,Lithuania,1.0,89.9,1.0,1.0,1.0,1.0,1.0,9.8
+2020,Europe,Luxembourg,1.0,70.6,1.0,1.0,1.0,2.3,1.0,26.7
+2020,Asia-Pacific,Macau,17.3,7.2,58.9,1.0,1.0,1.0,1.0,15.4
+2020,Europe,Republic of Macedonia,1.0,55.1,1.0,1.0,1.0,43.6,1.0,1.3
+2020,Sub-Saharan Africa,Madagascar,1.0,84.7,4.7,1.0,1.0,3.1,1.0,7.3
+2020,Sub-Saharan Africa,Malawi,1.0,83.4,1.7,1.0,1.0,12.8,1.0,2.0
+2020,Asia-Pacific,Malaysia,15.7,9.4,2.2,5.8,1.0,66.1,1.0,1.0
+2020,Asia-Pacific,Maldives,1.0,1.0,1.0,1.0,1.0,98.4,1.0,1.0
+2020,Sub-Saharan Africa,Mali,1.0,2.4,2.5,1.0,1.0,94.6,1.0,1.0
+2020,Europe,Malta,1.0,97.0,1.0,1.0,1.0,1.0,1.0,2.5
+2020,Asia-Pacific,Marshall Islands,1.0,97.5,1.0,1.0,1.0,1.0,1.0,1.5
+2020,Latin America-Caribbean,Martinique,1.0,96.5,1.0,1.0,1.0,1.0,1.0,2.3
+2020,Sub-Saharan Africa,Mauritania,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2020,Sub-Saharan Africa,Mauritius,1.0,32.8,1.0,48.4,1.0,17.4,1.0,1.0
+2020,Sub-Saharan Africa,Mayotte,1.0,1.0,1.0,1.0,1.0,98.6,1.0,1.0
+2020,Latin America-Caribbean,Mexico,1.0,94.1,1.0,1.0,1.0,1.0,1.0,5.7
+2020,Asia-Pacific,Federated States of Micronesia,1.0,95.3,2.7,1.0,1.0,1.0,1.0,1.0
+2020,Europe,Moldova,1.0,97.4,1.0,1.0,1.0,1.0,1.0,1.3
+2020,Europe,Monaco,1.0,86.0,1.0,1.0,1.7,1.0,1.0,11.7
+2020,Asia-Pacific,Mongolia,54.4,2.3,3.4,1.0,1.0,3.4,1.0,36.5
+2020,Europe,Montenegro,1.0,76.6,1.0,1.0,1.0,20.3,1.0,3.1
+2020,Latin America-Caribbean,Montserrat,1.0,93.5,1.0,1.0,1.0,1.0,1.5,4.8
+2020,Middle East-North Africa,Morocco,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2020,Sub-Saharan Africa,Mozambique,1.0,57.8,7.6,1.0,1.0,17.2,1.0,17.3
+2020,Asia-Pacific,Burma (Myanmar),79.8,7.8,5.8,1.7,1.0,4.2,1.0,1.0
+2020,Sub-Saharan Africa,Namibia,1.0,97.5,1.0,1.0,1.0,1.0,1.0,1.9
+2020,Asia-Pacific,Nauru,1.1,79.0,8.1,1.0,1.0,1.0,7.4,4.5
+2020,Asia-Pacific,Nepal,10.0,1.0,3.6,80.6,1.0,5.0,1.0,1.0
+2020,Europe,Netherlands,1.0,47.3,1.0,1.0,1.0,6.9,1.0,44.3
+2020,Asia-Pacific,New Caledonia,1.0,85.2,1.0,1.0,1.0,2.8,1.0,10.4
+2020,Asia-Pacific,New Zealand,1.9,52.9,1.0,2.5,1.0,1.6,1.0,39.6
+2020,Latin America-Caribbean,Nicaragua,1.0,85.3,1.4,1.0,1.0,1.0,1.0,13.0
+2020,Sub-Saharan Africa,Niger,1.0,1.0,1.0,1.0,1.0,98.3,1.0,1.0
+2020,Sub-Saharan Africa,Nigeria,1.0,46.9,1.5,1.0,1.0,51.1,1.0,1.0
+2020,Asia-Pacific,Niue,1.0,96.4,1.0,1.0,1.0,1.0,1.0,3.3
+2020,Asia-Pacific,North Korea,1.5,2.0,12.3,1.0,1.0,1.0,12.9,71.3
+2020,Asia-Pacific,Northern Mariana Islands,10.6,81.3,5.3,1.0,1.0,1.0,1.1,1.0
+2020,Europe,Norway,1.0,81.7,1.0,1.0,1.0,4.9,1.0,11.6
+2020,Middle East-North Africa,Oman,1.0,6.4,1.0,5.7,1.0,85.9,1.0,1.0
+2020,Asia-Pacific,Pakistan,1.0,1.6,1.0,1.9,1.0,96.5,1.0,1.0
+2020,Asia-Pacific,Palau,1.0,86.7,1.0,1.0,1.0,1.0,10.4,1.2
+2020,Middle East-North Africa,Palestinian territories,1.0,2.0,1.0,1.0,1.0,97.9,1.0,1.0
+2020,Latin America-Caribbean,Panama,1.0,92.7,1.0,1.0,1.0,1.0,1.0,5.0
+2020,Asia-Pacific,Papua New Guinea,1.0,99.0,1.0,1.0,1.0,1.0,1.0,1.0
+2020,Latin America-Caribbean,Paraguay,1.0,96.9,1.7,1.0,1.0,1.0,1.0,1.1
+2020,Latin America-Caribbean,Peru,1.0,95.4,1.0,1.0,1.0,1.0,1.0,3.1
+2020,Asia-Pacific,Philippines,1.0,92.4,1.6,1.0,1.0,5.7,1.0,1.0
+2020,Europe,Poland,1.0,92.5,1.0,1.0,1.0,1.0,1.0,7.3
+2020,Europe,Portugal,1.0,90.5,1.0,1.0,1.0,1.0,1.0,8.6
+2020,Latin America-Caribbean,Puerto Rico,1.0,96.5,1.0,1.0,1.0,1.0,1.0,2.1
+2020,Middle East-North Africa,Qatar,3.8,13.7,1.0,15.9,1.0,65.2,1.0,1.0
+2020,Sub-Saharan Africa,Reunion,1.0,87.6,1.0,4.5,1.0,4.2,1.1,2.0
+2020,Europe,Romania,1.0,99.0,1.0,1.0,1.0,1.0,1.0,1.0
+2020,Europe,Russia,1.0,72.9,1.0,1.0,1.0,11.4,1.0,15.2
+2020,Sub-Saharan Africa,Rwanda,1.0,93.8,1.0,1.0,1.0,2.2,1.0,3.0
+2020,Sub-Saharan Africa,St. Helena,1.0,96.5,1.0,1.0,1.0,1.0,1.0,3.3
+2020,Latin America-Caribbean,St. Kitts and Nevis,1.0,94.6,1.3,1.5,1.0,1.0,1.0,1.6
+2020,Latin America-Caribbean,St. Lucia,1.0,91.5,1.0,1.0,1.0,1.0,1.9,5.8
+2020,North America,St. Pierre and Miquelon,1.0,94.7,1.0,1.0,1.0,1.0,1.3,3.8
+2020,Latin America-Caribbean,St. Vincent and the Grenadines,1.0,88.7,2.0,3.4,1.0,1.5,2.0,2.5
+2020,Asia-Pacific,Samoa,1.0,96.9,1.0,1.0,1.0,1.0,1.0,2.4
+2020,Europe,San Marino,1.0,91.6,1.0,1.0,1.0,1.0,1.0,7.2
+2020,Sub-Saharan Africa,Sao Tome and Principe,1.0,81.1,3.1,1.0,1.0,1.0,2.5,13.2
+2020,Middle East-North Africa,Saudi Arabia,1.0,4.4,1.0,1.3,1.0,92.7,1.0,1.0
+2020,Sub-Saharan Africa,Senegal,1.0,3.3,1.0,1.0,1.0,96.6,1.0,1.0
+2020,Europe,Serbia,1.0,91.6,1.0,1.0,1.0,5.0,1.0,3.3
+2020,Sub-Saharan Africa,Seychelles,1.0,94.0,1.0,2.1,1.0,1.1,1.0,2.1
+2020,Sub-Saharan Africa,Sierra Leone,1.0,20.4,1.0,1.0,1.0,78.5,1.0,1.0
+2020,Asia-Pacific,Singapore,32.2,17.7,2.4,6.5,1.0,16.1,8.5,16.5
+2020,Europe,Slovakia,1.0,83.6,1.0,1.0,1.0,1.0,1.0,15.8
+2020,Europe,Slovenia,1.0,77.2,1.0,1.0,1.0,3.9,1.0,18.8
+2020,Asia-Pacific,Solomon Islands,1.0,97.4,1.3,1.0,1.0,1.0,1.0,1.0
+2020,Sub-Saharan Africa,Somalia,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2020,Sub-Saharan Africa,South Africa,1.0,80.8,1.0,1.0,1.0,1.9,1.0,15.3
+2020,Asia-Pacific,South Korea,21.9,30.1,1.0,1.0,1.0,1.0,1.0,46.6
+2020,Europe,Spain,1.0,75.2,1.0,1.0,1.0,3.3,1.0,21.0
+2020,Asia-Pacific,Sri Lanka,68.6,7.2,1.0,13.7,1.0,10.4,1.0,1.0
+2020,Middle East-North Africa,Sudan,1.0,5.4,2.8,1.0,1.0,90.7,1.0,1.0
+2020,Latin America-Caribbean,Suriname,1.0,52.3,5.6,18.8,1.0,14.3,1.9,6.2
+2020,Sub-Saharan Africa,Swaziland,1.0,88.7,1.0,1.0,1.0,1.0,1.0,9.4
+2020,Europe,Sweden,1.0,63.0,1.0,1.0,1.0,6.5,1.0,29.0
+2020,Europe,Switzerland,1.0,70.0,1.0,1.0,1.0,5.6,1.0,22.8
+2020,Middle East-North Africa,Syria,1.0,5.2,1.0,1.0,1.0,92.8,1.0,2.0
+2020,Asia-Pacific,Taiwan,21.2,5.8,43.8,1.0,1.0,1.0,15.5,13.7
+2020,Asia-Pacific,Tajikistan,1.0,1.8,1.0,1.0,1.0,96.4,1.0,1.5
+2020,Sub-Saharan Africa,Tanzania,1.0,63.1,1.1,1.0,1.0,34.1,1.0,1.6
+2020,Asia-Pacific,Thailand,92.6,1.0,1.0,1.0,1.0,6.0,1.0,1.0
+2020,Asia-Pacific,Timor-Leste,1.0,99.0,1.0,1.0,1.0,1.0,1.0,1.0
+2020,Sub-Saharan Africa,Togo,1.0,42.3,36.9,1.0,1.0,14.0,1.0,6.2
+2020,Asia-Pacific,Tokelau,1.0,99.0,1.0,1.0,1.0,1.0,1.0,1.0
+2020,Asia-Pacific,Tonga,1.0,98.9,1.0,1.0,1.0,1.0,1.0,1.0
+2020,Latin America-Caribbean,Trinidad and Tobago,1.0,66.3,2.0,22.3,1.0,5.8,1.4,1.8
+2020,Middle East-North Africa,Tunisia,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2020,Asia-Pacific,Turkey,1.0,1.0,1.0,1.0,1.0,98.0,1.0,1.2
+2020,Asia-Pacific,Turkmenistan,1.0,6.4,1.0,1.0,1.0,93.0,1.0,1.0
+2020,Latin America-Caribbean,Turks and Caicos Islands,1.0,92.1,2.7,1.0,1.0,1.0,1.0,4.6
+2020,Asia-Pacific,Tuvalu,1.0,96.7,1.0,1.0,1.0,1.0,1.9,1.3
+2020,Sub-Saharan Africa,Uganda,1.0,86.1,1.0,1.0,1.0,12.1,1.0,1.0
+2020,Europe,Ukraine,1.0,85.6,1.0,1.0,1.0,1.7,1.0,12.5
+2020,Middle East-North Africa,United Arab Emirates,2.4,12.9,1.0,7.7,1.0,75.0,1.0,1.1
+2020,Europe,United Kingdom,1.0,59.1,1.0,1.6,1.0,6.1,1.0,31.2
+2020,North America,United States,1.2,75.5,1.0,1.0,1.7,1.1,1.0,18.6
+2020,Latin America-Caribbean,U.S. Virgin Islands,1.0,94.8,1.0,1.0,1.0,1.0,1.0,3.7
+2020,Latin America-Caribbean,Uruguay,1.0,57.0,1.0,1.0,1.0,1.0,1.0,41.5
+2020,Asia-Pacific,Uzbekistan,1.0,2.0,1.0,1.0,1.0,97.1,1.0,1.0
+2020,Asia-Pacific,Vanuatu,1.0,93.5,4.0,1.0,1.0,1.0,1.4,1.2
+2020,Latin America-Caribbean,Venezuela,1.0,89.5,1.0,1.0,1.0,1.0,1.0,9.7
+2020,Asia-Pacific,Vietnam,16.2,8.4,45.0,1.0,1.0,1.0,1.0,29.9
+2020,Asia-Pacific,Wallis and Futuna,1.0,97.4,1.2,1.0,1.0,1.0,1.0,1.0
+2020,Middle East-North Africa,Western Sahara,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2020,Middle East-North Africa,Yemen,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2020,Sub-Saharan Africa,Zambia,1.0,97.4,1.0,1.0,1.0,1.0,1.0,1.0
+2020,Sub-Saharan Africa,Zimbabwe,1.0,87.1,4.0,1.0,1.0,1.0,1.0,7.6
+2020,Sub-Saharan Africa,South Sudan,1.0,60.5,32.9,1.0,1.0,6.2,1.0,1.0
+2020,Latin America-Caribbean,Curacao,1.0,93.9,1.2,1.0,1.0,1.0,1.0,3.3
+2020,Latin America-Caribbean,Sint Maarten,1.0,93.9,1.2,1.0,1.0,1.0,1.0,3.3
+2020,Latin America-Caribbean,Caribbean Netherlands,1.0,93.9,1.2,1.0,1.0,1.0,1.0,3.3
+2030, World, All Countries,6.1,31.0,5.4,15.2,1.0,26.5,1.0,14.8
+2030,North America, All Countries,1.3,71.4,1.0,1.0,1.5,1.7,1.1,21.6
+2030,Latin America-Caribbean, All Countries,1.0,89.3,1.8,1.0,1.0,1.0,1.0,8.3
+2030,Europe, All Countries,1.0,69.9,1.0,1.0,1.0,7.8,1.0,21.2
+2030,Middle East-North Africa, All Countries,1.0,3.4,1.0,1.0,1.5,93.3,1.0,1.0
+2030,Sub-Saharan Africa, All Countries,1.0,60.8,3.2,1.0,1.0,32.8,1.0,2.9
+2030,Asia-Pacific, All Countries,10.7,7.4,8.2,26.7,1.0,27.0,1.1,19.0
+2030,Asia-Pacific,Afghanistan,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2030,Europe,Albania,1.0,15.4,1.0,1.0,1.0,83.6,1.0,1.0
+2030,Middle East-North Africa,Algeria,1.0,1.0,1.0,1.0,1.0,97.9,1.0,1.8
+2030,Asia-Pacific,American Samoa,1.0,98.3,1.0,1.0,1.0,1.0,1.0,1.0
+2030,Europe,Andorra,1.0,89.5,1.0,1.0,1.0,1.0,1.0,8.8
+2030,Sub-Saharan Africa,Angola,1.0,90.5,4.1,1.0,1.0,1.0,1.0,5.2
+2030,Latin America-Caribbean,Anguilla,1.0,90.6,2.9,1.0,1.0,1.0,1.6,4.0
+2030,Latin America-Caribbean,Antigua and Barbuda,1.0,93.0,3.6,1.0,1.0,1.0,1.0,1.7
+2030,Latin America-Caribbean,Argentina,1.0,85.6,1.0,1.0,1.0,1.0,1.0,12.1
+2030,Asia-Pacific,Armenia,1.0,98.0,1.0,1.0,1.0,1.0,1.0,1.3
+2030,Latin America-Caribbean,Aruba,1.0,91.4,1.4,1.0,1.0,1.0,1.0,6.4
+2030,Asia-Pacific,Australia,3.1,56.5,1.0,1.9,1.0,3.6,1.0,32.8
+2030,Europe,Austria,1.0,76.5,1.0,1.0,1.0,7.1,1.0,15.4
+2030,Asia-Pacific,Azerbaijan,1.0,2.3,1.0,1.0,1.0,97.6,1.0,1.0
+2030,Latin America-Caribbean,Bahamas,1.0,96.4,1.0,1.0,1.0,1.0,1.0,2.8
+2030,Middle East-North Africa,Bahrain,3.5,13.5,1.0,10.5,1.0,69.4,1.0,2.1
+2030,Asia-Pacific,Bangladesh,1.0,1.0,1.0,7.9,1.0,91.1,1.0,1.0
+2030,Latin America-Caribbean,Barbados,1.0,95.2,1.0,1.0,1.0,1.0,1.4,1.9
+2030,Europe,Belarus,1.0,70.7,1.0,1.0,1.0,1.1,1.0,28.1
+2030,Europe,Belgium,1.0,57.3,1.0,1.0,1.0,8.9,1.0,32.4
+2030,Latin America-Caribbean,Belize,1.0,87.5,1.5,1.0,1.1,1.0,1.0,9.1
+2030,Sub-Saharan Africa,Benin,1.0,50.9,18.2,1.0,1.0,25.5,1.0,5.4
+2030,North America,Bermuda,1.0,75.0,3.0,1.0,1.0,1.1,1.0,19.4
+2030,Asia-Pacific,Bhutan,74.7,1.0,1.9,22.5,1.0,1.0,1.0,1.0
+2030,Latin America-Caribbean,Bolivia,1.0,94.1,1.0,1.0,1.0,1.0,1.0,4.1
+2030,Europe,Bosnia-Herzegovina,1.0,50.0,1.0,1.0,1.0,47.7,1.0,2.3
+2030,Sub-Saharan Africa,Botswana,1.0,79.9,3.2,1.0,1.0,1.2,1.0,15.0
+2030,Latin America-Caribbean,Brazil,1.0,87.4,3.5,1.0,1.0,1.0,1.0,8.8
+2030,Latin America-Caribbean,British Virgin Islands,1.0,84.5,8.4,1.2,1.0,1.2,1.0,3.9
+2030,Asia-Pacific,Brunei,8.6,9.4,6.2,1.0,1.0,75.1,1.0,1.0
+2030,Europe,Bulgaria,1.0,80.0,1.0,1.0,1.0,14.6,1.0,5.2
+2030,Sub-Saharan Africa,Burkina Faso,1.0,20.9,15.3,1.0,1.0,63.2,1.0,1.0
+2030,Sub-Saharan Africa,Burundi,1.0,90.9,6.1,1.0,1.0,3.0,1.0,1.0
+2030,Asia-Pacific,Cambodia,96.8,1.0,1.0,1.0,1.0,2.0,1.0,1.0
+2030,Sub-Saharan Africa,Cameroon,1.0,68.9,3.2,1.0,1.0,20.3,2.7,5.0
+2030,North America,Canada,1.2,64.0,1.3,2.0,1.2,3.6,1.5,25.2
+2030,Sub-Saharan Africa,Cape Verde,1.0,89.5,1.4,1.0,1.0,1.0,1.0,8.9
+2030,Latin America-Caribbean,Cayman Islands,1.0,83.5,4.5,1.0,1.0,1.0,1.0,9.4
+2030,Sub-Saharan Africa,Central African Republic,1.0,88.6,1.0,1.0,1.0,9.4,1.0,1.0
+2030,Sub-Saharan Africa,Chad,1.0,41.4,1.3,1.0,1.0,54.9,1.0,2.2
+2030,Europe,Channel Islands,1.0,85.2,1.0,1.0,1.0,1.0,1.0,14.2
+2030,Latin America-Caribbean,Chile,1.0,87.5,1.4,1.0,1.0,1.0,1.0,10.6
+2030,Asia-Pacific,China,18.4,5.3,21.9,1.0,1.0,2.2,1.0,51.6
+2030,Latin America-Caribbean,Colombia,1.0,92.1,1.0,1.0,1.0,1.0,1.0,6.9
+2030,Sub-Saharan Africa,Comoros,1.0,1.0,1.0,1.0,1.0,98.3,1.0,1.0
+2030,Sub-Saharan Africa,Republic of the Congo,1.0,87.3,2.7,1.0,1.0,1.1,1.0,7.8
+2030,Sub-Saharan Africa,Democratic Republic of the Congo,1.0,95.8,1.0,1.0,1.0,1.6,1.0,1.7
+2030,Asia-Pacific,Cook Islands,1.0,96.0,1.0,1.0,1.0,1.0,1.0,3.2
+2030,Latin America-Caribbean,Costa Rica,1.0,90.6,1.0,1.0,1.0,1.0,1.0,8.2
+2030,Sub-Saharan Africa,Ivory Coast,1.0,43.3,11.0,1.0,1.0,37.1,1.0,8.4
+2030,Europe,Croatia,1.0,93.4,1.0,1.0,1.0,1.7,1.0,4.8
+2030,Latin America-Caribbean,Cuba,1.0,58.5,17.8,1.0,1.0,1.0,1.0,23.3
+2030,Asia-Pacific,Cyprus,1.0,71.3,1.0,1.0,1.0,24.9,1.0,2.5
+2030,Europe,Czech Republic,1.0,19.3,1.0,1.0,1.0,1.0,1.0,79.5
+2030,Europe,Denmark,1.0,80.9,1.0,1.0,1.0,6.2,1.0,11.7
+2030,Sub-Saharan Africa,Djibouti,1.0,2.3,1.0,1.0,1.0,96.9,1.0,1.0
+2030,Latin America-Caribbean,Dominica,1.0,94.4,3.0,1.0,1.0,1.0,1.7,1.0
+2030,Latin America-Caribbean,Dominican Republic,1.0,88.1,1.0,1.0,1.0,1.0,1.0,10.8
+2030,Latin America-Caribbean,Ecuador,1.0,93.9,1.0,1.0,1.0,1.0,1.0,5.7
+2030,Middle East-North Africa,Egypt,1.0,4.3,1.0,1.0,1.0,95.7,1.0,1.0
+2030,Latin America-Caribbean,El Salvador,1.0,87.9,1.0,1.0,1.0,1.0,1.0,11.3
+2030,Sub-Saharan Africa,Equatorial Guinea,1.0,88.7,1.7,1.0,1.0,4.0,1.0,5.0
+2030,Sub-Saharan Africa,Eritrea,1.0,62.9,1.0,1.0,1.0,36.6,1.0,1.0
+2030,Europe,Estonia,1.0,39.3,1.0,1.0,1.0,1.0,1.0,60.2
+2030,Sub-Saharan Africa,Ethiopia,1.0,60.7,2.0,1.0,1.0,37.3,1.0,1.0
+2030,Europe,Faeroe Islands,1.0,98.0,1.0,1.0,1.0,1.0,1.0,1.7
+2030,Latin America-Caribbean,Falkland Islands (Malvinas),1.0,67.2,1.0,1.0,1.0,1.0,1.0,31.5
+2030,Asia-Pacific,Fiji,1.0,64.4,1.0,27.9,1.0,6.3,1.0,1.0
+2030,Europe,Finland,1.0,75.8,1.0,1.0,1.0,1.9,1.0,21.8
+2030,Europe,France,1.0,53.1,1.0,1.0,1.0,9.1,1.0,36.1
+2030,Latin America-Caribbean,French Guiana,1.0,83.7,8.1,1.1,1.0,1.6,1.0,4.3
+2030,Asia-Pacific,French Polynesia,1.0,94.0,1.0,1.0,1.0,1.0,1.0,4.9
+2030,Sub-Saharan Africa,Gabon,1.0,74.3,5.7,1.0,1.0,13.4,1.0,5.9
+2030,Sub-Saharan Africa,Gambia,1.0,3.9,1.0,1.0,1.0,95.5,1.0,1.0
+2030,Europe,Georgia,1.0,86.8,1.0,1.0,1.0,12.4,1.0,1.0
+2030,Europe,Germany,1.0,63.7,1.0,1.0,1.0,7.9,1.0,27.6
+2030,Sub-Saharan Africa,Ghana,1.0,71.9,5.3,1.0,1.0,18.9,1.0,3.7
+2030,Europe,Gibraltar,1.0,88.8,1.0,1.8,2.1,4.0,1.0,2.9
+2030,Europe,Greece,1.0,87.0,1.0,1.0,1.0,6.5,1.0,6.0
+2030,North America,Greenland,1.0,96.1,1.0,1.0,1.0,1.0,1.0,2.5
+2030,Latin America-Caribbean,Grenada,1.0,96.6,1.3,1.0,1.0,1.0,1.0,1.0
+2030,Latin America-Caribbean,Guadeloupe,1.0,95.9,1.0,1.0,1.0,1.0,1.0,2.5
+2030,Asia-Pacific,Guam,1.1,94.2,1.5,1.0,1.0,1.0,1.6,1.7
+2030,Latin America-Caribbean,Guatemala,1.0,95.5,1.0,1.0,1.0,1.0,1.0,3.8
+2030,Sub-Saharan Africa,Guinea,1.0,10.6,2.6,1.0,1.0,84.9,1.0,1.8
+2030,Sub-Saharan Africa,Guinea-Bissau,1.0,17.9,30.5,1.0,1.0,47.1,1.0,4.4
+2030,Latin America-Caribbean,Guyana,1.0,69.8,1.0,21.7,1.0,5.8,1.0,1.9
+2030,Latin America-Caribbean,Haiti,1.0,86.8,2.0,1.0,1.0,1.0,1.0,10.8
+2030,Europe,Vatican City,1.0,99.0,1.0,1.0,1.0,1.0,1.0,1.0
+2030,Latin America-Caribbean,Honduras,1.0,87.6,1.2,1.0,1.0,1.0,1.0,10.3
+2030,Asia-Pacific,Hong Kong,13.4,15.9,13.2,1.0,1.0,2.4,1.4,53.2
+2030,Europe,Hungary,1.0,77.6,1.0,1.0,1.0,1.0,1.0,21.9
+2030,Europe,Iceland,1.0,92.9,1.0,1.0,1.0,1.0,1.0,4.4
+2030,Asia-Pacific,India,1.0,2.3,1.0,78.2,1.0,16.3,1.9,1.0
+2030,Asia-Pacific,Indonesia,1.0,10.5,1.0,1.5,1.0,86.8,1.0,1.0
+2030,Asia-Pacific,Iran,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2030,Middle East-North Africa,Iraq,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2030,Europe,Ireland,1.0,87.5,1.0,1.0,1.0,2.0,1.0,9.5
+2030,Europe,Isle of Man,1.0,84.1,1.0,1.0,1.0,1.0,1.0,15.4
+2030,Middle East-North Africa,Israel,1.0,2.0,1.0,1.0,72.3,21.9,1.0,3.1
+2030,Europe,Italy,1.0,78.3,1.0,1.0,1.0,6.1,1.0,14.5
+2030,Latin America-Caribbean,Jamaica,1.0,77.2,4.6,1.0,1.0,1.0,1.0,17.1
+2030,Asia-Pacific,Japan,30.1,1.9,1.0,1.0,1.0,1.0,4.2,63.0
+2030,Middle East-North Africa,Jordan,1.0,2.1,1.0,1.0,1.0,97.0,1.0,1.0
+2030,Asia-Pacific,Kazakhstan,1.0,21.5,1.0,1.0,1.0,73.7,1.0,3.7
+2030,Sub-Saharan Africa,Kenya,1.0,83.6,1.4,1.0,1.0,11.6,1.0,2.3
+2030,Asia-Pacific,Kiribati,1.0,97.0,1.0,1.0,1.0,1.0,2.2,1.0
+2030,Europe,Kosovo,1.0,5.2,1.0,1.0,1.0,94.7,1.0,1.0
+2030,Middle East-North Africa,Kuwait,6.5,12.8,1.0,10.5,1.0,69.6,1.0,1.0
+2030,Asia-Pacific,Kyrgyzstan,1.0,8.9,1.0,1.0,1.0,90.5,1.0,1.0
+2030,Asia-Pacific,Laos,61.6,1.5,35.1,1.0,1.0,1.0,1.0,1.0
+2030,Europe,Latvia,1.0,53.3,1.0,1.0,1.0,1.0,1.0,46.2
+2030,Middle East-North Africa,Lebanon,1.0,38.4,1.0,1.0,1.0,61.2,1.0,1.0
+2030,Sub-Saharan Africa,Lesotho,1.0,97.1,1.0,1.0,1.0,1.0,1.0,2.8
+2030,Sub-Saharan Africa,Liberia,1.0,85.9,1.0,1.0,1.0,11.9,1.0,1.3
+2030,Middle East-North Africa,Libya,1.0,2.7,1.0,1.0,1.0,96.6,1.0,1.0
+2030,Europe,Liechtenstein,1.0,91.9,1.0,1.0,1.0,5.0,1.0,2.9
+2030,Europe,Lithuania,1.0,90.1,1.0,1.0,1.0,1.0,1.0,9.6
+2030,Europe,Luxembourg,1.0,70.7,1.0,1.0,1.0,2.3,1.0,26.5
+2030,Asia-Pacific,Macau,17.3,7.2,58.9,1.0,1.0,1.0,1.0,15.4
+2030,Europe,Republic of Macedonia,1.0,50.9,1.0,1.0,1.0,47.9,1.0,1.2
+2030,Sub-Saharan Africa,Madagascar,1.0,84.1,4.8,1.0,1.0,3.1,1.0,7.7
+2030,Sub-Saharan Africa,Malawi,1.0,83.7,1.6,1.0,1.0,12.9,1.0,1.7
+2030,Asia-Pacific,Malaysia,13.8,9.4,2.1,5.5,1.0,68.4,1.0,1.0
+2030,Asia-Pacific,Maldives,1.0,1.0,1.0,1.0,1.0,98.4,1.0,1.0
+2030,Sub-Saharan Africa,Mali,1.0,2.3,3.0,1.0,1.0,94.1,1.0,1.0
+2030,Europe,Malta,1.0,97.0,1.0,1.0,1.0,1.0,1.0,2.5
+2030,Asia-Pacific,Marshall Islands,1.0,97.5,1.0,1.0,1.0,1.0,1.0,1.5
+2030,Latin America-Caribbean,Martinique,1.0,96.5,1.0,1.0,1.0,1.0,1.0,2.3
+2030,Sub-Saharan Africa,Mauritania,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2030,Sub-Saharan Africa,Mauritius,1.0,32.8,1.0,48.2,1.0,17.4,1.0,1.0
+2030,Sub-Saharan Africa,Mayotte,1.0,1.0,1.0,1.0,1.0,98.6,1.0,1.0
+2030,Latin America-Caribbean,Mexico,1.0,93.1,1.0,1.0,1.0,1.0,1.0,6.7
+2030,Asia-Pacific,Federated States of Micronesia,1.0,95.3,2.7,1.0,1.0,1.0,1.0,1.0
+2030,Europe,Moldova,1.0,97.3,1.0,1.0,1.0,1.0,1.0,1.3
+2030,Europe,Monaco,1.0,86.0,1.0,1.0,1.7,1.0,1.0,11.7
+2030,Asia-Pacific,Mongolia,53.9,2.3,3.4,1.0,1.0,3.6,1.0,36.8
+2030,Europe,Montenegro,1.0,75.1,1.0,1.0,1.0,21.9,1.0,3.0
+2030,Latin America-Caribbean,Montserrat,1.0,93.5,1.0,1.0,1.0,1.0,1.5,4.8
+2030,Middle East-North Africa,Morocco,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2030,Sub-Saharan Africa,Mozambique,1.0,58.6,7.7,1.0,1.0,16.4,1.0,17.1
+2030,Asia-Pacific,Burma (Myanmar),79.7,7.8,5.7,1.7,1.0,4.4,1.0,1.0
+2030,Sub-Saharan Africa,Namibia,1.0,97.5,1.0,1.0,1.0,1.0,1.0,1.9
+2030,Asia-Pacific,Nauru,1.1,79.0,8.1,1.0,1.0,1.0,7.4,4.5
+2030,Asia-Pacific,Nepal,9.7,1.0,3.6,80.4,1.0,5.5,1.0,1.0
+2030,Europe,Netherlands,1.0,44.6,1.0,1.0,1.0,7.7,1.0,46.1
+2030,Asia-Pacific,New Caledonia,1.0,85.2,1.0,1.0,1.0,2.8,1.0,10.4
+2030,Asia-Pacific,New Zealand,2.0,49.7,1.0,2.9,1.0,1.9,1.0,41.9
+2030,Latin America-Caribbean,Nicaragua,1.0,84.9,1.4,1.0,1.0,1.0,1.0,13.4
+2030,Sub-Saharan Africa,Niger,1.0,1.0,1.0,1.0,1.0,98.1,1.0,1.0
+2030,Sub-Saharan Africa,Nigeria,1.0,44.2,1.6,1.0,1.0,53.7,1.0,1.0
+2030,Asia-Pacific,Niue,1.0,96.4,1.0,1.0,1.0,1.0,1.0,3.3
+2030,Asia-Pacific,North Korea,1.5,2.0,12.3,1.0,1.0,1.0,12.9,71.3
+2030,Asia-Pacific,Northern Mariana Islands,10.6,81.3,5.3,1.0,1.0,1.0,1.1,1.0
+2030,Europe,Norway,1.1,79.0,1.0,1.0,1.0,6.1,1.0,12.8
+2030,Middle East-North Africa,Oman,1.0,6.1,1.0,5.7,1.0,86.3,1.0,1.0
+2030,Asia-Pacific,Pakistan,1.0,1.5,1.0,2.0,1.0,96.4,1.0,1.0
+2030,Asia-Pacific,Palau,1.0,86.7,1.0,1.0,1.0,1.0,10.4,1.2
+2030,Middle East-North Africa,Palestinian territories,1.0,1.8,1.0,1.0,1.0,98.1,1.0,1.0
+2030,Latin America-Caribbean,Panama,1.0,92.4,1.0,1.0,1.0,1.0,1.0,5.3
+2030,Asia-Pacific,Papua New Guinea,1.0,99.0,1.0,1.0,1.0,1.0,1.0,1.0
+2030,Latin America-Caribbean,Paraguay,1.0,96.8,1.8,1.0,1.0,1.0,1.0,1.1
+2030,Latin America-Caribbean,Peru,1.0,95.4,1.0,1.0,1.0,1.0,1.0,3.2
+2030,Asia-Pacific,Philippines,1.0,92.2,1.6,1.0,1.0,5.8,1.0,1.0
+2030,Europe,Poland,1.0,90.8,1.0,1.0,1.0,1.0,1.0,9.0
+2030,Europe,Portugal,1.0,89.1,1.0,1.0,1.0,1.0,1.0,9.5
+2030,Latin America-Caribbean,Puerto Rico,1.0,96.3,1.0,1.0,1.0,1.0,1.0,2.3
+2030,Middle East-North Africa,Qatar,4.0,13.3,1.0,16.9,1.0,64.3,1.0,1.0
+2030,Sub-Saharan Africa,Reunion,1.0,87.6,1.0,4.5,1.0,4.2,1.1,2.0
+2030,Europe,Romania,1.0,99.0,1.0,1.0,1.0,1.0,1.0,1.0
+2030,Europe,Russia,1.0,72.4,1.0,1.0,1.0,13.1,1.0,13.9
+2030,Sub-Saharan Africa,Rwanda,1.0,93.6,1.0,1.0,1.0,2.5,1.0,3.1
+2030,Sub-Saharan Africa,St. Helena,1.0,96.5,1.0,1.0,1.0,1.0,1.0,3.3
+2030,Latin America-Caribbean,St. Kitts and Nevis,1.0,94.6,1.3,1.5,1.0,1.0,1.0,1.6
+2030,Latin America-Caribbean,St. Lucia,1.0,92.0,1.0,1.0,1.0,1.0,1.7,5.5
+2030,North America,St. Pierre and Miquelon,1.0,94.7,1.0,1.0,1.0,1.0,1.3,3.8
+2030,Latin America-Caribbean,St. Vincent and the Grenadines,1.0,88.7,2.0,3.4,1.0,1.5,2.0,2.5
+2030,Asia-Pacific,Samoa,1.0,97.2,1.0,1.0,1.0,1.0,1.0,2.1
+2030,Europe,San Marino,1.0,91.6,1.0,1.0,1.0,1.0,1.0,7.2
+2030,Sub-Saharan Africa,Sao Tome and Principe,1.0,80.7,3.1,1.0,1.0,1.0,2.5,13.6
+2030,Middle East-North Africa,Saudi Arabia,1.0,4.2,1.0,1.4,1.0,92.8,1.0,1.0
+2030,Sub-Saharan Africa,Senegal,1.0,3.0,1.0,1.0,1.0,96.9,1.0,1.0
+2030,Europe,Serbia,1.0,90.6,1.0,1.0,1.0,6.0,1.0,3.4
+2030,Sub-Saharan Africa,Seychelles,1.0,94.0,1.0,2.1,1.0,1.1,1.0,2.1
+2030,Sub-Saharan Africa,Sierra Leone,1.0,19.8,1.0,1.0,1.0,79.1,1.0,1.0
+2030,Asia-Pacific,Singapore,30.4,17.4,2.5,7.7,1.0,17.8,7.4,16.5
+2030,Europe,Slovakia,1.0,82.1,1.0,1.0,1.0,1.0,1.0,17.0
+2030,Europe,Slovenia,1.0,76.4,1.0,1.0,1.0,4.3,1.0,19.2
+2030,Asia-Pacific,Solomon Islands,1.0,97.4,1.3,1.0,1.0,1.0,1.0,1.0
+2030,Sub-Saharan Africa,Somalia,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2030,Sub-Saharan Africa,South Africa,1.0,80.5,1.0,1.0,1.0,2.1,1.0,15.4
+2030,Asia-Pacific,South Korea,20.7,31.2,1.0,1.0,1.0,1.0,1.0,46.5
+2030,Europe,Spain,1.0,71.4,1.0,1.0,1.0,4.6,1.0,23.5
+2030,Asia-Pacific,Sri Lanka,68.0,7.1,1.0,13.8,1.0,11.1,1.0,1.0
+2030,Middle East-North Africa,Sudan,1.0,5.4,2.8,1.0,1.0,90.7,1.0,1.0
+2030,Latin America-Caribbean,Suriname,1.0,53.1,6.1,17.7,1.0,13.5,1.9,6.9
+2030,Sub-Saharan Africa,Swaziland,1.0,88.9,1.0,1.0,1.0,1.0,1.0,9.1
+2030,Europe,Sweden,1.0,59.1,1.0,1.0,1.0,8.3,1.0,30.7
+2030,Europe,Switzerland,1.0,67.3,1.0,1.0,1.0,6.3,1.0,24.7
+2030,Middle East-North Africa,Syria,1.0,5.2,1.0,1.0,1.0,92.8,1.0,2.0
+2030,Asia-Pacific,Taiwan,21.0,6.0,43.3,1.0,1.0,1.0,14.9,14.8
+2030,Asia-Pacific,Tajikistan,1.0,1.9,1.0,1.0,1.0,96.3,1.0,1.5
+2030,Sub-Saharan Africa,Tanzania,1.0,64.4,1.0,1.0,1.0,33.0,1.0,1.8
+2030,Asia-Pacific,Thailand,91.9,1.0,1.0,1.0,1.0,6.6,1.0,1.0
+2030,Asia-Pacific,Timor-Leste,1.0,99.0,1.0,1.0,1.0,1.0,1.0,1.0
+2030,Sub-Saharan Africa,Togo,1.0,40.3,38.8,1.0,1.0,14.1,1.0,6.3
+2030,Asia-Pacific,Tokelau,1.0,99.0,1.0,1.0,1.0,1.0,1.0,1.0
+2030,Asia-Pacific,Tonga,1.0,98.9,1.0,1.0,1.0,1.0,1.0,1.0
+2030,Latin America-Caribbean,Trinidad and Tobago,1.0,66.7,2.0,21.9,1.0,5.7,1.5,1.8
+2030,Middle East-North Africa,Tunisia,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2030,Asia-Pacific,Turkey,1.0,1.0,1.0,1.0,1.0,98.0,1.0,1.2
+2030,Asia-Pacific,Turkmenistan,1.0,6.4,1.0,1.0,1.0,93.0,1.0,1.0
+2030,Latin America-Caribbean,Turks and Caicos Islands,1.0,92.1,2.7,1.0,1.0,1.0,1.0,4.6
+2030,Asia-Pacific,Tuvalu,1.0,96.7,1.0,1.0,1.0,1.0,1.9,1.3
+2030,Sub-Saharan Africa,Uganda,1.0,85.4,1.0,1.0,1.0,12.8,1.0,1.0
+2030,Europe,Ukraine,1.0,87.0,1.0,1.0,1.0,2.3,1.0,10.4
+2030,Middle East-North Africa,United Arab Emirates,2.6,12.9,1.0,8.4,1.0,74.1,1.0,1.1
+2030,Europe,United Kingdom,1.0,54.3,1.0,1.7,1.0,7.7,1.0,34.2
+2030,North America,United States,1.3,72.2,1.0,1.0,1.6,1.4,1.1,21.2
+2030,Latin America-Caribbean,U.S. Virgin Islands,1.0,94.8,1.0,1.0,1.0,1.0,1.0,3.7
+2030,Latin America-Caribbean,Uruguay,1.0,56.6,1.0,1.0,1.0,1.0,1.0,42.0
+2030,Asia-Pacific,Uzbekistan,1.0,1.8,1.0,1.0,1.0,97.4,1.0,1.0
+2030,Asia-Pacific,Vanuatu,1.0,93.5,4.0,1.0,1.0,1.0,1.4,1.1
+2030,Latin America-Caribbean,Venezuela,1.0,89.5,1.0,1.0,1.0,1.0,1.0,9.5
+2030,Asia-Pacific,Vietnam,16.1,8.5,44.7,1.0,1.0,1.0,1.0,30.1
+2030,Asia-Pacific,Wallis and Futuna,1.0,97.4,1.2,1.0,1.0,1.0,1.0,1.0
+2030,Middle East-North Africa,Western Sahara,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2030,Middle East-North Africa,Yemen,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2030,Sub-Saharan Africa,Zambia,1.0,97.1,1.0,1.0,1.0,1.0,1.0,1.0
+2030,Sub-Saharan Africa,Zimbabwe,1.0,86.6,4.4,1.0,1.0,1.0,1.0,7.6
+2030,Sub-Saharan Africa,South Sudan,1.0,60.5,32.9,1.0,1.0,6.2,1.0,1.0
+2030,Latin America-Caribbean,Curacao,1.0,93.9,1.2,1.0,1.0,1.0,1.0,3.3
+2030,Latin America-Caribbean,Sint Maarten,1.0,93.9,1.2,1.0,1.0,1.0,1.0,3.3
+2030,Latin America-Caribbean,Caribbean Netherlands,1.0,93.9,1.2,1.0,1.0,1.0,1.0,3.3
+2040, World, All Countries,5.7,31.1,5.1,15.1,1.0,28.1,1.0,14.0
+2040,North America, All Countries,1.4,68.4,1.0,1.2,1.4,2.0,1.3,23.8
+2040,Latin America-Caribbean, All Countries,1.0,89.1,1.9,1.0,1.0,1.0,1.0,8.5
+2040,Europe, All Countries,1.0,67.5,1.0,1.0,1.0,9.0,1.0,22.3
+2040,Middle East-North Africa, All Countries,1.0,3.2,1.0,1.0,1.4,93.5,1.0,1.0
+2040,Sub-Saharan Africa, All Countries,1.0,59.6,3.2,1.0,1.0,34.1,1.0,2.7
+2040,Asia-Pacific, All Countries,10.1,7.5,7.8,27.2,1.0,28.3,1.1,17.9
+2040,Asia-Pacific,Afghanistan,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2040,Europe,Albania,1.0,14.4,1.0,1.0,1.0,84.8,1.0,1.0
+2040,Middle East-North Africa,Algeria,1.0,1.0,1.0,1.0,1.0,97.9,1.0,1.8
+2040,Asia-Pacific,American Samoa,1.0,98.3,1.0,1.0,1.0,1.0,1.0,1.0
+2040,Europe,Andorra,1.0,89.5,1.0,1.0,1.0,1.0,1.0,8.8
+2040,Sub-Saharan Africa,Angola,1.0,90.5,4.1,1.0,1.0,1.0,1.0,5.2
+2040,Latin America-Caribbean,Anguilla,1.0,90.6,2.9,1.0,1.0,1.0,1.6,4.0
+2040,Latin America-Caribbean,Antigua and Barbuda,1.0,93.0,3.6,1.0,1.0,1.0,1.0,1.7
+2040,Latin America-Caribbean,Argentina,1.0,86.0,1.0,1.0,1.0,1.0,1.0,11.8
+2040,Asia-Pacific,Armenia,1.0,97.7,1.0,1.0,1.0,1.0,1.0,1.3
+2040,Latin America-Caribbean,Aruba,1.0,91.1,1.4,1.0,1.0,1.0,1.0,6.7
+2040,Asia-Pacific,Australia,3.1,51.5,1.0,2.1,1.0,4.2,1.0,36.9
+2040,Europe,Austria,1.0,74.7,1.0,1.0,1.0,8.0,1.0,16.2
+2040,Asia-Pacific,Azerbaijan,1.0,2.1,1.0,1.0,1.0,97.8,1.0,1.0
+2040,Latin America-Caribbean,Bahamas,1.0,96.5,1.0,1.0,1.0,1.0,1.0,2.7
+2040,Middle East-North Africa,Bahrain,3.8,12.9,1.0,10.7,1.0,69.5,1.0,2.1
+2040,Asia-Pacific,Bangladesh,1.0,1.0,1.0,7.6,1.0,91.4,1.0,1.0
+2040,Latin America-Caribbean,Barbados,1.0,95.2,1.0,1.0,1.0,1.0,1.4,1.9
+2040,Europe,Belarus,1.0,70.9,1.0,1.0,1.0,1.7,1.0,27.2
+2040,Europe,Belgium,1.0,54.9,1.0,1.0,1.0,10.3,1.0,33.3
+2040,Latin America-Caribbean,Belize,1.0,87.4,1.5,1.0,1.1,1.0,1.0,9.2
+2040,Sub-Saharan Africa,Benin,1.0,49.6,18.3,1.0,1.0,26.4,1.0,5.6
+2040,North America,Bermuda,1.0,75.0,3.0,1.0,1.0,1.1,1.0,19.4
+2040,Asia-Pacific,Bhutan,74.7,1.0,1.9,22.5,1.0,1.0,1.0,1.0
+2040,Latin America-Caribbean,Bolivia,1.0,94.1,1.0,1.0,1.0,1.0,1.0,4.1
+2040,Europe,Bosnia-Herzegovina,1.0,49.2,1.0,1.0,1.0,48.6,1.0,2.2
+2040,Sub-Saharan Africa,Botswana,1.0,82.2,2.3,1.0,1.0,1.5,1.0,13.2
+2040,Latin America-Caribbean,Brazil,1.0,86.9,3.8,1.0,1.0,1.0,1.0,9.1
+2040,Latin America-Caribbean,British Virgin Islands,1.0,84.5,8.4,1.2,1.0,1.2,1.0,3.9
+2040,Asia-Pacific,Brunei,8.6,9.4,6.2,1.0,1.0,75.1,1.0,1.0
+2040,Europe,Bulgaria,1.0,79.2,1.0,1.0,1.0,14.9,1.0,5.7
+2040,Sub-Saharan Africa,Burkina Faso,1.0,20.0,15.4,1.0,1.0,64.0,1.0,1.0
+2040,Sub-Saharan Africa,Burundi,1.0,90.7,6.2,1.0,1.0,3.1,1.0,1.0
+2040,Asia-Pacific,Cambodia,96.7,1.0,1.0,1.0,1.0,2.0,1.0,1.0
+2040,Sub-Saharan Africa,Cameroon,1.0,68.2,3.1,1.0,1.0,21.2,2.7,4.8
+2040,North America,Canada,1.3,61.9,1.3,2.3,1.3,4.5,1.7,25.6
+2040,Sub-Saharan Africa,Cape Verde,1.0,89.6,1.4,1.0,1.0,1.0,1.0,8.8
+2040,Latin America-Caribbean,Cayman Islands,1.0,83.5,4.5,1.0,1.0,1.0,1.0,9.4
+2040,Sub-Saharan Africa,Central African Republic,1.0,88.3,1.0,1.0,1.0,9.7,1.0,1.0
+2040,Sub-Saharan Africa,Chad,1.0,42.1,1.3,1.0,1.0,54.4,1.0,2.0
+2040,Europe,Channel Islands,1.0,85.2,1.0,1.0,1.0,1.0,1.0,14.2
+2040,Latin America-Caribbean,Chile,1.0,86.8,1.4,1.0,1.0,1.0,1.0,11.4
+2040,Asia-Pacific,China,18.4,5.3,21.9,1.0,1.0,2.4,1.0,51.2
+2040,Latin America-Caribbean,Colombia,1.0,92.0,1.0,1.0,1.0,1.0,1.0,7.0
+2040,Sub-Saharan Africa,Comoros,1.0,1.0,1.0,1.0,1.0,98.3,1.0,1.0
+2040,Sub-Saharan Africa,Republic of the Congo,1.0,87.5,2.7,1.0,1.0,1.1,1.0,7.7
+2040,Sub-Saharan Africa,Democratic Republic of the Congo,1.0,95.8,1.0,1.0,1.0,1.6,1.0,1.7
+2040,Asia-Pacific,Cook Islands,1.0,96.0,1.0,1.0,1.0,1.0,1.0,3.2
+2040,Latin America-Caribbean,Costa Rica,1.0,90.5,1.0,1.0,1.0,1.0,1.0,8.3
+2040,Sub-Saharan Africa,Ivory Coast,1.0,42.4,11.5,1.0,1.0,37.2,1.0,8.7
+2040,Europe,Croatia,1.0,93.6,1.0,1.0,1.0,1.8,1.0,4.6
+2040,Latin America-Caribbean,Cuba,1.0,58.2,18.1,1.0,1.0,1.0,1.0,23.4
+2040,Asia-Pacific,Cyprus,1.0,70.1,1.0,1.0,1.0,25.0,1.0,3.1
+2040,Europe,Czech Republic,1.0,18.6,1.0,1.0,1.0,1.0,1.0,79.6
+2040,Europe,Denmark,1.0,79.8,1.0,1.0,1.0,7.3,1.0,11.3
+2040,Sub-Saharan Africa,Djibouti,1.0,2.3,1.0,1.0,1.0,96.9,1.0,1.0
+2040,Latin America-Caribbean,Dominica,1.0,94.4,3.0,1.0,1.0,1.0,1.7,1.0
+2040,Latin America-Caribbean,Dominican Republic,1.0,88.2,1.0,1.0,1.0,1.0,1.0,10.7
+2040,Latin America-Caribbean,Ecuador,1.0,93.8,1.0,1.0,1.0,1.0,1.0,5.7
+2040,Middle East-North Africa,Egypt,1.0,4.0,1.0,1.0,1.0,96.0,1.0,1.0
+2040,Latin America-Caribbean,El Salvador,1.0,87.8,1.0,1.0,1.0,1.0,1.0,11.5
+2040,Sub-Saharan Africa,Equatorial Guinea,1.0,88.7,1.7,1.0,1.0,4.0,1.0,5.0
+2040,Sub-Saharan Africa,Eritrea,1.0,62.9,1.0,1.0,1.0,36.6,1.0,1.0
+2040,Europe,Estonia,1.0,39.7,1.0,1.0,1.0,1.0,1.0,59.8
+2040,Sub-Saharan Africa,Ethiopia,1.0,59.4,1.9,1.0,1.0,38.6,1.0,1.0
+2040,Europe,Faeroe Islands,1.0,98.0,1.0,1.0,1.0,1.0,1.0,1.7
+2040,Latin America-Caribbean,Falkland Islands (Malvinas),1.0,67.2,1.0,1.0,1.0,1.0,1.0,31.5
+2040,Asia-Pacific,Fiji,1.0,64.4,1.0,27.9,1.0,6.3,1.0,1.0
+2040,Europe,Finland,1.0,74.2,1.0,1.0,1.0,2.5,1.0,22.5
+2040,Europe,France,1.0,47.9,1.0,1.0,1.0,9.9,1.0,40.5
+2040,Latin America-Caribbean,French Guiana,1.0,83.3,7.8,1.0,1.0,1.9,1.0,4.6
+2040,Asia-Pacific,French Polynesia,1.0,94.0,1.0,1.0,1.0,1.0,1.0,4.9
+2040,Sub-Saharan Africa,Gabon,1.0,72.9,5.5,1.0,1.0,14.7,1.0,6.1
+2040,Sub-Saharan Africa,Gambia,1.0,3.6,1.0,1.0,1.0,95.6,1.0,1.0
+2040,Europe,Georgia,1.0,85.9,1.0,1.0,1.0,13.3,1.0,1.0
+2040,Europe,Germany,1.0,61.5,1.0,1.0,1.0,8.9,1.0,28.7
+2040,Sub-Saharan Africa,Ghana,1.0,69.8,5.8,1.0,1.0,20.6,1.0,3.6
+2040,Europe,Gibraltar,1.0,88.8,1.0,1.8,2.1,4.0,1.0,2.9
+2040,Europe,Greece,1.0,86.5,1.0,1.0,1.0,7.2,1.0,5.8
+2040,North America,Greenland,1.0,96.1,1.0,1.0,1.0,1.0,1.0,2.5
+2040,Latin America-Caribbean,Grenada,1.0,96.6,1.3,1.0,1.0,1.0,1.0,1.0
+2040,Latin America-Caribbean,Guadeloupe,1.0,95.9,1.0,1.0,1.0,1.0,1.0,2.5
+2040,Asia-Pacific,Guam,1.1,94.2,1.5,1.0,1.0,1.0,1.6,1.7
+2040,Latin America-Caribbean,Guatemala,1.0,95.6,1.0,1.0,1.0,1.0,1.0,3.7
+2040,Sub-Saharan Africa,Guinea,1.0,10.3,2.6,1.0,1.0,85.2,1.0,1.8
+2040,Sub-Saharan Africa,Guinea-Bissau,1.0,16.9,30.6,1.0,1.0,48.0,1.0,4.5
+2040,Latin America-Caribbean,Guyana,1.0,71.8,1.0,20.1,1.0,5.5,1.0,1.9
+2040,Latin America-Caribbean,Haiti,1.0,86.7,2.0,1.0,1.0,1.0,1.0,11.1
+2040,Europe,Vatican City,1.0,99.0,1.0,1.0,1.0,1.0,1.0,1.0
+2040,Latin America-Caribbean,Honduras,1.0,87.7,1.2,1.0,1.0,1.0,1.0,10.1
+2040,Asia-Pacific,Hong Kong,13.4,17.3,13.3,1.0,1.0,2.8,1.4,51.3
+2040,Europe,Hungary,1.0,76.6,1.0,1.0,1.0,1.0,1.0,22.9
+2040,Europe,Iceland,1.0,91.9,1.0,1.0,1.0,1.3,1.0,4.7
+2040,Asia-Pacific,India,1.0,2.3,1.0,77.5,1.0,17.3,1.7,1.0
+2040,Asia-Pacific,Indonesia,1.0,10.8,1.0,1.5,1.0,86.7,1.0,1.0
+2040,Asia-Pacific,Iran,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2040,Middle East-North Africa,Iraq,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2040,Europe,Ireland,1.0,85.4,1.0,1.0,1.0,2.5,1.0,10.9
+2040,Europe,Isle of Man,1.0,84.1,1.0,1.0,1.0,1.0,1.0,15.4
+2040,Middle East-North Africa,Israel,1.0,2.0,1.0,1.0,71.0,23.4,1.0,3.0
+2040,Europe,Italy,1.0,75.6,1.0,1.0,1.0,7.7,1.0,15.5
+2040,Latin America-Caribbean,Jamaica,1.0,77.1,4.6,1.0,1.0,1.0,1.0,17.1
+2040,Asia-Pacific,Japan,27.3,2.1,1.0,1.0,1.0,1.0,4.0,65.7
+2040,Middle East-North Africa,Jordan,1.0,2.1,1.0,1.0,1.0,97.0,1.0,1.0
+2040,Asia-Pacific,Kazakhstan,1.0,19.9,1.0,1.0,1.0,75.6,1.0,3.2
+2040,Sub-Saharan Africa,Kenya,1.0,82.8,1.3,1.0,1.0,12.5,1.0,2.4
+2040,Asia-Pacific,Kiribati,1.0,97.0,1.0,1.0,1.0,1.0,2.2,1.0
+2040,Europe,Kosovo,1.0,4.9,1.0,1.0,1.0,94.9,1.0,1.0
+2040,Middle East-North Africa,Kuwait,7.1,12.3,1.0,10.7,1.0,69.3,1.0,1.0
+2040,Asia-Pacific,Kyrgyzstan,1.0,7.9,1.0,1.0,1.0,91.5,1.0,1.0
+2040,Asia-Pacific,Laos,59.2,1.5,37.4,1.0,1.0,1.0,1.0,1.0
+2040,Europe,Latvia,1.0,53.6,1.0,1.0,1.0,1.0,1.0,45.9
+2040,Middle East-North Africa,Lebanon,1.0,38.3,1.0,1.0,1.0,61.3,1.0,1.0
+2040,Sub-Saharan Africa,Lesotho,1.0,97.1,1.0,1.0,1.0,1.0,1.0,2.7
+2040,Sub-Saharan Africa,Liberia,1.0,85.6,1.0,1.0,1.0,12.0,1.0,1.3
+2040,Middle East-North Africa,Libya,1.0,2.7,1.0,1.0,1.0,96.6,1.0,1.0
+2040,Europe,Liechtenstein,1.0,91.9,1.0,1.0,1.0,5.0,1.0,2.9
+2040,Europe,Lithuania,1.0,90.6,1.0,1.0,1.0,1.0,1.0,9.2
+2040,Europe,Luxembourg,1.0,70.9,1.0,1.0,1.0,2.3,1.0,26.4
+2040,Asia-Pacific,Macau,17.3,7.2,58.9,1.0,1.0,1.0,1.0,15.4
+2040,Europe,Republic of Macedonia,1.0,46.7,1.0,1.0,1.0,52.1,1.0,1.1
+2040,Sub-Saharan Africa,Madagascar,1.0,83.5,5.0,1.0,1.0,3.2,1.0,8.2
+2040,Sub-Saharan Africa,Malawi,1.0,83.8,1.6,1.0,1.0,12.9,1.0,1.5
+2040,Asia-Pacific,Malaysia,12.2,9.4,2.0,5.3,1.0,70.5,1.0,1.0
+2040,Asia-Pacific,Maldives,1.0,1.0,1.0,1.0,1.0,98.4,1.0,1.0
+2040,Sub-Saharan Africa,Mali,1.0,2.3,3.5,1.0,1.0,93.6,1.0,1.0
+2040,Europe,Malta,1.0,97.0,1.0,1.0,1.0,1.0,1.0,2.5
+2040,Asia-Pacific,Marshall Islands,1.0,97.5,1.0,1.0,1.0,1.0,1.0,1.5
+2040,Latin America-Caribbean,Martinique,1.0,96.5,1.0,1.0,1.0,1.0,1.0,2.3
+2040,Sub-Saharan Africa,Mauritania,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2040,Sub-Saharan Africa,Mauritius,1.0,32.8,1.0,48.1,1.0,17.5,1.0,1.0
+2040,Sub-Saharan Africa,Mayotte,1.0,1.0,1.0,1.0,1.0,98.6,1.0,1.0
+2040,Latin America-Caribbean,Mexico,1.0,92.3,1.0,1.0,1.0,1.0,1.0,7.6
+2040,Asia-Pacific,Federated States of Micronesia,1.0,95.3,2.7,1.0,1.0,1.0,1.0,1.0
+2040,Europe,Moldova,1.0,97.2,1.0,1.0,1.0,1.2,1.0,1.3
+2040,Europe,Monaco,1.0,86.0,1.0,1.0,1.7,1.0,1.0,11.7
+2040,Asia-Pacific,Mongolia,53.4,2.2,3.4,1.0,1.0,3.8,1.0,37.1
+2040,Europe,Montenegro,1.0,73.4,1.0,1.0,1.0,23.7,1.0,2.9
+2040,Latin America-Caribbean,Montserrat,1.0,93.5,1.0,1.0,1.0,1.0,1.5,4.8
+2040,Middle East-North Africa,Morocco,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2040,Sub-Saharan Africa,Mozambique,1.0,59.3,7.9,1.0,1.0,15.8,1.0,17.0
+2040,Asia-Pacific,Burma (Myanmar),79.7,7.8,5.6,1.7,1.0,4.6,1.0,1.0
+2040,Sub-Saharan Africa,Namibia,1.0,97.4,1.0,1.0,1.0,1.0,1.0,2.0
+2040,Asia-Pacific,Nauru,1.1,79.0,8.1,1.0,1.0,1.0,7.4,4.5
+2040,Asia-Pacific,Nepal,9.4,1.0,3.6,80.1,1.0,6.0,1.0,1.0
+2040,Europe,Netherlands,1.0,41.9,1.0,1.0,1.0,8.5,1.0,47.9
+2040,Asia-Pacific,New Caledonia,1.0,85.2,1.0,1.0,1.0,2.8,1.0,10.4
+2040,Asia-Pacific,New Zealand,2.1,46.9,1.0,3.3,1.0,2.3,1.0,43.8
+2040,Latin America-Caribbean,Nicaragua,1.0,84.6,1.4,1.0,1.0,1.0,1.0,13.8
+2040,Sub-Saharan Africa,Niger,1.0,1.1,1.0,1.0,1.0,98.0,1.0,1.0
+2040,Sub-Saharan Africa,Nigeria,1.0,41.5,1.7,1.0,1.0,56.4,1.0,1.0
+2040,Asia-Pacific,Niue,1.0,96.4,1.0,1.0,1.0,1.0,1.0,3.3
+2040,Asia-Pacific,North Korea,1.5,2.0,12.3,1.0,1.0,1.0,12.9,71.3
+2040,Asia-Pacific,Northern Mariana Islands,10.6,81.3,5.3,1.0,1.0,1.0,1.1,1.0
+2040,Europe,Norway,1.3,76.3,1.0,1.0,1.0,7.5,1.0,13.8
+2040,Middle East-North Africa,Oman,1.0,5.8,1.0,5.7,1.0,86.8,1.0,1.0
+2040,Asia-Pacific,Pakistan,1.0,1.5,1.0,2.0,1.0,96.5,1.0,1.0
+2040,Asia-Pacific,Palau,1.0,86.7,1.0,1.0,1.0,1.0,10.4,1.2
+2040,Middle East-North Africa,Palestinian territories,1.0,1.6,1.0,1.0,1.0,98.3,1.0,1.0
+2040,Latin America-Caribbean,Panama,1.0,92.1,1.0,1.0,1.0,1.0,1.0,5.5
+2040,Asia-Pacific,Papua New Guinea,1.0,99.0,1.0,1.0,1.0,1.0,1.0,1.0
+2040,Latin America-Caribbean,Paraguay,1.0,96.8,1.8,1.0,1.0,1.0,1.0,1.1
+2040,Latin America-Caribbean,Peru,1.0,95.3,1.0,1.0,1.0,1.0,1.0,3.3
+2040,Asia-Pacific,Philippines,1.0,92.1,1.6,1.0,1.0,6.0,1.0,1.0
+2040,Europe,Poland,1.0,88.8,1.0,1.0,1.0,1.0,1.0,10.9
+2040,Europe,Portugal,1.0,87.7,1.0,1.0,1.0,1.0,1.0,10.5
+2040,Latin America-Caribbean,Puerto Rico,1.0,96.0,1.0,1.0,1.0,1.0,1.0,2.5
+2040,Middle East-North Africa,Qatar,4.1,13.0,1.0,17.1,1.0,64.2,1.0,1.0
+2040,Sub-Saharan Africa,Reunion,1.0,87.6,1.0,4.5,1.0,4.2,1.1,2.0
+2040,Europe,Romania,1.0,99.0,1.0,1.0,1.0,1.0,1.0,1.0
+2040,Europe,Russia,1.0,71.9,1.0,1.0,1.0,15.0,1.0,12.6
+2040,Sub-Saharan Africa,Rwanda,1.0,93.2,1.0,1.0,1.0,2.9,1.0,3.2
+2040,Sub-Saharan Africa,St. Helena,1.0,96.5,1.0,1.0,1.0,1.0,1.0,3.3
+2040,Latin America-Caribbean,St. Kitts and Nevis,1.0,94.6,1.3,1.5,1.0,1.0,1.0,1.6
+2040,Latin America-Caribbean,St. Lucia,1.0,92.4,1.0,1.0,1.0,1.0,1.6,5.2
+2040,North America,St. Pierre and Miquelon,1.0,94.7,1.0,1.0,1.0,1.0,1.3,3.8
+2040,Latin America-Caribbean,St. Vincent and the Grenadines,1.0,88.7,2.0,3.4,1.0,1.5,2.0,2.5
+2040,Asia-Pacific,Samoa,1.0,97.4,1.0,1.0,1.0,1.0,1.0,2.0
+2040,Europe,San Marino,1.0,91.6,1.0,1.0,1.0,1.0,1.0,7.2
+2040,Sub-Saharan Africa,Sao Tome and Principe,1.0,80.3,3.1,1.0,1.0,1.0,2.6,14.0
+2040,Middle East-North Africa,Saudi Arabia,1.0,4.1,1.0,1.5,1.0,92.9,1.0,1.0
+2040,Sub-Saharan Africa,Senegal,1.0,2.8,1.0,1.0,1.0,97.2,1.0,1.0
+2040,Europe,Serbia,1.0,89.6,1.0,1.0,1.0,7.0,1.0,3.4
+2040,Sub-Saharan Africa,Seychelles,1.0,94.0,1.0,2.1,1.0,1.1,1.0,2.1
+2040,Sub-Saharan Africa,Sierra Leone,1.0,19.1,1.0,1.0,1.0,79.8,1.0,1.0
+2040,Asia-Pacific,Singapore,28.8,17.3,2.6,8.9,1.0,19.4,6.5,16.4
+2040,Europe,Slovakia,1.0,80.8,1.0,1.0,1.0,1.0,1.0,18.1
+2040,Europe,Slovenia,1.0,75.7,1.0,1.0,1.0,4.5,1.0,19.7
+2040,Asia-Pacific,Solomon Islands,1.0,97.4,1.3,1.0,1.0,1.0,1.0,1.0
+2040,Sub-Saharan Africa,Somalia,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2040,Sub-Saharan Africa,South Africa,1.0,80.2,1.0,1.0,1.0,2.3,1.0,15.5
+2040,Asia-Pacific,South Korea,19.4,32.4,1.0,1.0,1.0,1.0,1.0,46.5
+2040,Europe,Spain,1.0,68.1,1.0,1.0,1.0,5.9,1.0,25.2
+2040,Asia-Pacific,Sri Lanka,67.4,7.0,1.0,13.9,1.0,11.7,1.0,1.0
+2040,Middle East-North Africa,Sudan,1.0,5.4,2.8,1.0,1.0,90.7,1.0,1.0
+2040,Latin America-Caribbean,Suriname,1.0,53.8,6.4,16.5,1.0,12.6,2.0,7.8
+2040,Sub-Saharan Africa,Swaziland,1.0,89.2,1.1,1.0,1.0,1.0,1.0,8.8
+2040,Europe,Sweden,1.0,55.5,1.0,1.0,1.0,10.3,1.0,32.0
+2040,Europe,Switzerland,1.0,64.4,1.0,1.0,1.0,7.0,1.0,26.6
+2040,Middle East-North Africa,Syria,1.0,5.1,1.0,1.0,1.0,92.8,1.0,2.0
+2040,Asia-Pacific,Taiwan,20.7,6.3,42.8,1.0,1.0,1.0,14.3,15.9
+2040,Asia-Pacific,Tajikistan,1.0,2.0,1.0,1.0,1.0,96.2,1.0,1.5
+2040,Sub-Saharan Africa,Tanzania,1.0,65.6,1.0,1.0,1.0,31.8,1.0,2.0
+2040,Asia-Pacific,Thailand,91.1,1.0,1.0,1.0,1.0,7.4,1.0,1.0
+2040,Asia-Pacific,Timor-Leste,1.0,99.0,1.0,1.0,1.0,1.0,1.0,1.0
+2040,Sub-Saharan Africa,Togo,1.0,38.5,40.5,1.0,1.0,14.0,1.0,6.4
+2040,Asia-Pacific,Tokelau,1.0,99.0,1.0,1.0,1.0,1.0,1.0,1.0
+2040,Asia-Pacific,Tonga,1.0,98.9,1.0,1.0,1.0,1.0,1.0,1.0
+2040,Latin America-Caribbean,Trinidad and Tobago,1.0,67.2,2.1,21.4,1.0,5.6,1.5,1.8
+2040,Middle East-North Africa,Tunisia,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2040,Asia-Pacific,Turkey,1.0,1.0,1.0,1.0,1.0,98.0,1.0,1.2
+2040,Asia-Pacific,Turkmenistan,1.0,6.4,1.0,1.0,1.0,92.9,1.0,1.0
+2040,Latin America-Caribbean,Turks and Caicos Islands,1.0,92.1,2.7,1.0,1.0,1.0,1.0,4.6
+2040,Asia-Pacific,Tuvalu,1.0,96.7,1.0,1.0,1.0,1.0,1.9,1.3
+2040,Sub-Saharan Africa,Uganda,1.0,84.8,1.0,1.0,1.0,13.4,1.0,1.0
+2040,Europe,Ukraine,1.0,88.3,1.0,1.0,1.0,2.9,1.0,8.4
+2040,Middle East-North Africa,United Arab Emirates,2.7,13.0,1.0,9.0,1.0,73.4,1.0,1.1
+2040,Europe,United Kingdom,1.0,49.6,1.0,1.9,1.0,9.4,1.0,36.9
+2040,North America,United States,1.4,69.1,1.0,1.1,1.5,1.8,1.3,23.6
+2040,Latin America-Caribbean,U.S. Virgin Islands,1.0,94.8,1.0,1.0,1.0,1.0,1.0,3.7
+2040,Latin America-Caribbean,Uruguay,1.0,56.4,1.0,1.0,1.0,1.0,1.0,42.2
+2040,Asia-Pacific,Uzbekistan,1.0,1.6,1.0,1.0,1.0,97.6,1.0,1.0
+2040,Asia-Pacific,Vanuatu,1.0,93.5,4.0,1.0,1.0,1.0,1.4,1.1
+2040,Latin America-Caribbean,Venezuela,1.0,89.6,1.0,1.0,1.0,1.0,1.0,9.4
+2040,Asia-Pacific,Vietnam,16.0,8.7,44.4,1.0,1.0,1.0,1.0,30.2
+2040,Asia-Pacific,Wallis and Futuna,1.0,97.4,1.2,1.0,1.0,1.0,1.0,1.0
+2040,Middle East-North Africa,Western Sahara,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2040,Middle East-North Africa,Yemen,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2040,Sub-Saharan Africa,Zambia,1.0,96.9,1.0,1.0,1.0,1.0,1.0,1.0
+2040,Sub-Saharan Africa,Zimbabwe,1.0,86.4,4.6,1.0,1.0,1.0,1.0,7.6
+2040,Sub-Saharan Africa,South Sudan,1.0,60.5,32.9,1.0,1.0,6.2,1.0,1.0
+2040,Latin America-Caribbean,Curacao,1.0,93.9,1.2,1.0,1.0,1.0,1.0,3.3
+2040,Latin America-Caribbean,Sint Maarten,1.0,93.9,1.2,1.0,1.0,1.0,1.0,3.3
+2040,Latin America-Caribbean,Caribbean Netherlands,1.0,93.9,1.2,1.0,1.0,1.0,1.0,3.3
+2050, World, All Countries,5.2,31.4,4.8,14.9,1.0,29.7,1.0,13.2
+2050,North America, All Countries,1.4,65.8,1.0,1.3,1.4,2.4,1.5,25.6
+2050,Latin America-Caribbean, All Countries,1.0,88.9,1.9,1.0,1.0,1.0,1.0,8.7
+2050,Europe, All Countries,1.0,65.2,1.0,1.0,1.0,10.2,1.0,23.3
+2050,Middle East-North Africa, All Countries,1.0,3.1,1.0,1.0,1.4,93.7,1.0,1.0
+2050,Sub-Saharan Africa, All Countries,1.0,58.5,3.2,1.0,1.0,35.2,1.0,2.7
+2050,Asia-Pacific, All Countries,9.6,7.7,7.4,27.7,1.0,29.5,1.0,17.0
+2050,Asia-Pacific,Afghanistan,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2050,Europe,Albania,1.0,13.4,1.0,1.0,1.0,85.9,1.0,1.0
+2050,Middle East-North Africa,Algeria,1.0,1.0,1.0,1.0,1.0,98.0,1.0,1.8
+2050,Asia-Pacific,American Samoa,1.0,98.3,1.0,1.0,1.0,1.0,1.0,1.0
+2050,Europe,Andorra,1.0,89.5,1.0,1.0,1.0,1.0,1.0,8.8
+2050,Sub-Saharan Africa,Angola,1.0,90.5,4.1,1.0,1.0,1.0,1.0,5.2
+2050,Latin America-Caribbean,Anguilla,1.0,90.6,2.9,1.0,1.0,1.0,1.6,4.0
+2050,Latin America-Caribbean,Antigua and Barbuda,1.0,93.0,3.6,1.0,1.0,1.0,1.0,1.7
+2050,Latin America-Caribbean,Argentina,1.0,86.6,1.0,1.0,1.0,1.0,1.0,11.5
+2050,Asia-Pacific,Armenia,1.0,97.4,1.0,1.0,1.0,1.1,1.0,1.3
+2050,Latin America-Caribbean,Aruba,1.0,90.9,1.4,1.0,1.0,1.0,1.0,6.8
+2050,Asia-Pacific,Australia,3.1,47.0,1.0,2.3,1.0,4.9,1.0,40.4
+2050,Europe,Austria,1.0,72.6,1.0,1.0,1.0,8.9,1.0,17.2
+2050,Asia-Pacific,Azerbaijan,1.0,1.9,1.0,1.0,1.0,98.0,1.0,1.0
+2050,Latin America-Caribbean,Bahamas,1.0,96.7,1.0,1.0,1.0,1.0,1.0,2.6
+2050,Middle East-North Africa,Bahrain,4.0,12.1,1.0,10.7,1.0,70.2,1.0,2.1
+2050,Asia-Pacific,Bangladesh,1.0,1.0,1.0,7.3,1.0,91.7,1.0,1.0
+2050,Latin America-Caribbean,Barbados,1.0,95.2,1.0,1.0,1.0,1.0,1.4,1.9
+2050,Europe,Belarus,1.0,71.2,1.0,1.0,1.0,2.4,1.0,26.2
+2050,Europe,Belgium,1.0,52.8,1.0,1.0,1.0,11.8,1.0,33.6
+2050,Latin America-Caribbean,Belize,1.0,87.3,1.5,1.0,1.1,1.0,1.0,9.2
+2050,Sub-Saharan Africa,Benin,1.0,48.5,18.4,1.0,1.0,27.3,1.0,5.8
+2050,North America,Bermuda,1.0,75.0,3.0,1.0,1.0,1.1,1.0,19.4
+2050,Asia-Pacific,Bhutan,74.7,1.0,1.9,22.5,1.0,1.0,1.0,1.0
+2050,Latin America-Caribbean,Bolivia,1.0,94.2,1.0,1.0,1.0,1.0,1.0,4.1
+2050,Europe,Bosnia-Herzegovina,1.0,48.5,1.0,1.0,1.0,49.4,1.0,2.1
+2050,Sub-Saharan Africa,Botswana,1.0,83.9,1.7,1.0,1.0,1.8,1.0,11.8
+2050,Latin America-Caribbean,Brazil,1.0,86.4,4.0,1.0,1.0,1.0,1.0,9.3
+2050,Latin America-Caribbean,British Virgin Islands,1.0,84.5,8.4,1.2,1.0,1.2,1.0,3.9
+2050,Asia-Pacific,Brunei,8.6,9.4,6.2,1.0,1.0,75.1,1.0,1.0
+2050,Europe,Bulgaria,1.0,78.7,1.0,1.0,1.0,15.0,1.0,6.2
+2050,Sub-Saharan Africa,Burkina Faso,1.0,19.3,15.5,1.0,1.0,64.6,1.0,1.0
+2050,Sub-Saharan Africa,Burundi,1.0,90.5,6.3,1.0,1.0,3.2,1.0,1.0
+2050,Asia-Pacific,Cambodia,96.7,1.0,1.0,1.0,1.0,2.1,1.0,1.0
+2050,Sub-Saharan Africa,Cameroon,1.0,67.6,3.1,1.0,1.0,22.0,2.7,4.6
+2050,North America,Canada,1.5,60.2,1.4,2.6,1.4,5.5,1.9,25.6
+2050,Sub-Saharan Africa,Cape Verde,1.0,89.7,1.3,1.0,1.0,1.0,1.0,8.7
+2050,Latin America-Caribbean,Cayman Islands,1.0,83.5,4.5,1.0,1.0,1.0,1.0,9.4
+2050,Sub-Saharan Africa,Central African Republic,1.0,87.9,1.0,1.0,1.0,10.1,1.0,1.0
+2050,Sub-Saharan Africa,Chad,1.0,42.7,1.3,1.0,1.0,53.9,1.0,1.9
+2050,Europe,Channel Islands,1.0,85.2,1.0,1.0,1.0,1.0,1.0,14.2
+2050,Latin America-Caribbean,Chile,1.0,86.2,1.3,1.0,1.0,1.0,1.0,12.0
+2050,Asia-Pacific,China,18.5,5.4,21.8,1.0,1.0,2.7,1.0,50.8
+2050,Latin America-Caribbean,Colombia,1.0,91.8,1.0,1.0,1.0,1.0,1.0,7.2
+2050,Sub-Saharan Africa,Comoros,1.0,1.0,1.0,1.0,1.0,98.3,1.0,1.0
+2050,Sub-Saharan Africa,Republic of the Congo,1.0,87.8,2.7,1.0,1.0,1.1,1.0,7.4
+2050,Sub-Saharan Africa,Democratic Republic of the Congo,1.0,95.7,1.0,1.0,1.0,1.7,1.0,1.7
+2050,Asia-Pacific,Cook Islands,1.0,96.0,1.0,1.0,1.0,1.0,1.0,3.2
+2050,Latin America-Caribbean,Costa Rica,1.0,90.4,1.0,1.0,1.0,1.0,1.0,8.3
+2050,Sub-Saharan Africa,Ivory Coast,1.0,41.5,12.0,1.0,1.0,37.3,1.0,8.9
+2050,Europe,Croatia,1.0,93.6,1.0,1.0,1.0,1.9,1.0,4.4
+2050,Latin America-Caribbean,Cuba,1.0,57.8,18.3,1.0,1.0,1.0,1.0,23.5
+2050,Asia-Pacific,Cyprus,1.3,68.9,1.0,1.0,1.0,25.1,1.0,3.6
+2050,Europe,Czech Republic,1.0,18.6,1.0,1.0,1.0,1.0,1.0,78.9
+2050,Europe,Denmark,1.0,78.6,1.0,1.0,1.0,8.5,1.0,11.0
+2050,Sub-Saharan Africa,Djibouti,1.0,2.3,1.0,1.0,1.0,96.9,1.0,1.0
+2050,Latin America-Caribbean,Dominica,1.0,94.4,3.0,1.0,1.0,1.0,1.7,1.0
+2050,Latin America-Caribbean,Dominican Republic,1.0,88.3,1.0,1.0,1.0,1.0,1.0,10.6
+2050,Latin America-Caribbean,Ecuador,1.0,93.7,1.0,1.0,1.0,1.0,1.0,5.8
+2050,Middle East-North Africa,Egypt,1.0,3.7,1.0,1.0,1.0,96.3,1.0,1.0
+2050,Latin America-Caribbean,El Salvador,1.0,87.6,1.0,1.0,1.0,1.0,1.0,11.7
+2050,Sub-Saharan Africa,Equatorial Guinea,1.0,88.7,1.7,1.0,1.0,4.0,1.0,5.0
+2050,Sub-Saharan Africa,Eritrea,1.0,62.9,1.0,1.0,1.0,36.6,1.0,1.0
+2050,Europe,Estonia,1.0,40.4,1.0,1.0,1.0,1.0,1.0,59.1
+2050,Sub-Saharan Africa,Ethiopia,1.0,58.3,1.7,1.0,1.0,39.9,1.0,1.0
+2050,Europe,Faeroe Islands,1.0,98.0,1.0,1.0,1.0,1.0,1.0,1.7
+2050,Latin America-Caribbean,Falkland Islands (Malvinas),1.0,67.2,1.0,1.0,1.0,1.0,1.0,31.5
+2050,Asia-Pacific,Fiji,1.0,64.4,1.0,27.9,1.0,6.3,1.0,1.0
+2050,Europe,Finland,1.0,72.5,1.0,1.0,1.0,3.4,1.0,23.2
+2050,Europe,France,1.0,43.1,1.0,1.0,1.0,10.9,1.0,44.1
+2050,Latin America-Caribbean,French Guiana,1.0,83.0,7.4,1.0,1.0,2.3,1.0,4.9
+2050,Asia-Pacific,French Polynesia,1.0,94.0,1.0,1.0,1.0,1.0,1.0,4.9
+2050,Sub-Saharan Africa,Gabon,1.0,71.5,5.5,1.0,1.0,16.0,1.0,6.3
+2050,Sub-Saharan Africa,Gambia,1.0,3.3,1.0,1.0,1.0,95.7,1.0,1.0
+2050,Europe,Georgia,1.0,85.0,1.0,1.0,1.0,14.2,1.0,1.0
+2050,Europe,Germany,1.0,59.3,1.0,1.0,1.0,10.0,1.0,29.8
+2050,Sub-Saharan Africa,Ghana,1.0,67.8,6.1,1.0,1.0,22.3,1.0,3.5
+2050,Europe,Gibraltar,1.0,88.8,1.0,1.8,2.1,4.0,1.0,2.9
+2050,Europe,Greece,1.0,86.1,1.0,1.0,1.0,7.8,1.0,5.5
+2050,North America,Greenland,1.0,96.1,1.0,1.0,1.0,1.0,1.0,2.5
+2050,Latin America-Caribbean,Grenada,1.0,96.6,1.3,1.0,1.0,1.0,1.0,1.0
+2050,Latin America-Caribbean,Guadeloupe,1.0,95.9,1.0,1.0,1.0,1.0,1.0,2.5
+2050,Asia-Pacific,Guam,1.1,94.2,1.5,1.0,1.0,1.0,1.6,1.7
+2050,Latin America-Caribbean,Guatemala,1.0,95.7,1.0,1.0,1.0,1.0,1.0,3.5
+2050,Sub-Saharan Africa,Guinea,1.0,10.0,2.6,1.0,1.0,85.5,1.0,1.8
+2050,Sub-Saharan Africa,Guinea-Bissau,1.0,16.0,30.7,1.0,1.0,48.8,1.0,4.6
+2050,Latin America-Caribbean,Guyana,1.0,73.8,1.0,18.4,1.0,5.2,1.0,1.9
+2050,Latin America-Caribbean,Haiti,1.0,86.5,1.9,1.0,1.0,1.0,1.0,11.3
+2050,Europe,Vatican City,1.0,99.0,1.0,1.0,1.0,1.0,1.0,1.0
+2050,Latin America-Caribbean,Honduras,1.0,87.7,1.2,1.0,1.0,1.0,1.0,10.1
+2050,Asia-Pacific,Hong Kong,13.4,18.9,13.4,1.0,1.0,3.2,1.3,49.1
+2050,Europe,Hungary,1.0,76.1,1.0,1.0,1.0,1.0,1.0,23.3
+2050,Europe,Iceland,1.1,90.8,1.0,1.0,1.0,1.7,1.0,5.1
+2050,Asia-Pacific,India,1.0,2.2,1.0,76.7,1.0,18.4,1.5,1.0
+2050,Asia-Pacific,Indonesia,1.0,11.2,1.0,1.4,1.0,86.4,1.0,1.0
+2050,Asia-Pacific,Iran,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2050,Middle East-North Africa,Iraq,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2050,Europe,Ireland,1.0,83.5,1.0,1.0,1.0,3.0,1.0,12.1
+2050,Europe,Isle of Man,1.0,84.1,1.0,1.0,1.0,1.0,1.0,15.4
+2050,Middle East-North Africa,Israel,1.0,1.9,1.0,1.0,69.9,24.6,1.0,2.9
+2050,Europe,Italy,1.0,72.8,1.0,1.0,1.0,9.5,1.0,16.3
+2050,Latin America-Caribbean,Jamaica,1.0,77.1,4.7,1.0,1.0,1.0,1.0,17.0
+2050,Asia-Pacific,Japan,25.1,2.4,1.0,1.0,1.0,1.0,3.9,67.7
+2050,Middle East-North Africa,Jordan,1.0,2.1,1.0,1.0,1.0,96.9,1.0,1.0
+2050,Asia-Pacific,Kazakhstan,1.0,18.4,1.0,1.0,1.0,77.4,1.0,2.8
+2050,Sub-Saharan Africa,Kenya,1.0,82.1,1.2,1.0,1.0,13.3,1.0,2.3
+2050,Asia-Pacific,Kiribati,1.0,97.0,1.0,1.0,1.0,1.0,2.2,1.0
+2050,Europe,Kosovo,1.0,4.7,1.0,1.0,1.0,95.2,1.0,1.0
+2050,Middle East-North Africa,Kuwait,7.3,11.8,1.0,10.8,1.0,69.4,1.0,1.0
+2050,Asia-Pacific,Kyrgyzstan,1.0,7.0,1.0,1.0,1.0,92.4,1.0,1.0
+2050,Asia-Pacific,Laos,56.9,1.5,39.7,1.0,1.0,1.0,1.0,1.0
+2050,Europe,Latvia,1.0,54.3,1.0,1.0,1.0,1.0,1.0,45.1
+2050,Middle East-North Africa,Lebanon,1.0,38.2,1.0,1.0,1.0,61.4,1.0,1.0
+2050,Sub-Saharan Africa,Lesotho,1.0,97.2,1.0,1.0,1.0,1.0,1.0,2.7
+2050,Sub-Saharan Africa,Liberia,1.0,85.4,1.1,1.0,1.0,12.1,1.0,1.3
+2050,Middle East-North Africa,Libya,1.0,2.7,1.0,1.0,1.0,96.6,1.0,1.0
+2050,Europe,Liechtenstein,1.0,91.9,1.0,1.0,1.0,5.0,1.0,2.9
+2050,Europe,Lithuania,1.0,91.2,1.0,1.0,1.0,1.0,1.0,8.5
+2050,Europe,Luxembourg,1.0,71.1,1.0,1.0,1.0,2.3,1.0,26.2
+2050,Asia-Pacific,Macau,17.3,7.2,58.9,1.0,1.0,1.0,1.0,15.4
+2050,Europe,Republic of Macedonia,1.0,42.7,1.0,1.0,1.0,56.2,1.0,1.0
+2050,Sub-Saharan Africa,Madagascar,1.0,82.8,5.2,1.0,1.0,3.2,1.0,8.6
+2050,Sub-Saharan Africa,Malawi,1.0,84.0,1.6,1.0,1.0,12.9,1.0,1.4
+2050,Asia-Pacific,Malaysia,10.8,9.4,1.9,5.0,1.0,72.4,1.0,1.0
+2050,Asia-Pacific,Maldives,1.0,1.0,1.0,1.0,1.0,98.4,1.0,1.0
+2050,Sub-Saharan Africa,Mali,1.0,2.3,3.7,1.0,1.0,93.4,1.0,1.0
+2050,Europe,Malta,1.0,97.0,1.0,1.0,1.0,1.0,1.0,2.5
+2050,Asia-Pacific,Marshall Islands,1.0,97.5,1.0,1.0,1.0,1.0,1.0,1.5
+2050,Latin America-Caribbean,Martinique,1.0,96.5,1.0,1.0,1.0,1.0,1.0,2.3
+2050,Sub-Saharan Africa,Mauritania,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2050,Sub-Saharan Africa,Mauritius,1.0,32.9,1.0,47.8,1.0,17.6,1.0,1.0
+2050,Sub-Saharan Africa,Mayotte,1.0,1.0,1.0,1.0,1.0,98.6,1.0,1.0
+2050,Latin America-Caribbean,Mexico,1.0,91.4,1.0,1.0,1.0,1.0,1.0,8.4
+2050,Asia-Pacific,Federated States of Micronesia,1.0,95.2,2.7,1.0,1.0,1.0,1.0,1.0
+2050,Europe,Moldova,1.0,97.0,1.0,1.0,1.0,1.4,1.0,1.3
+2050,Europe,Monaco,1.0,86.0,1.0,1.0,1.7,1.0,1.0,11.7
+2050,Asia-Pacific,Mongolia,52.9,2.2,3.4,1.0,1.0,4.1,1.0,37.4
+2050,Europe,Montenegro,1.0,71.5,1.0,1.0,1.0,25.8,1.0,2.7
+2050,Latin America-Caribbean,Montserrat,1.0,93.5,1.0,1.0,1.0,1.0,1.5,4.8
+2050,Middle East-North Africa,Morocco,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2050,Sub-Saharan Africa,Mozambique,1.0,60.0,8.1,1.0,1.0,15.1,1.0,16.8
+2050,Asia-Pacific,Burma (Myanmar),79.8,7.9,5.4,1.6,1.0,4.7,1.0,1.0
+2050,Sub-Saharan Africa,Namibia,1.0,97.3,1.0,1.0,1.0,1.0,1.0,2.0
+2050,Asia-Pacific,Nauru,1.1,79.0,8.1,1.0,1.0,1.0,7.4,4.5
+2050,Asia-Pacific,Nepal,9.2,1.0,3.6,79.8,1.0,6.6,1.0,1.0
+2050,Europe,Netherlands,1.0,39.6,1.0,1.0,1.0,9.4,1.0,49.1
+2050,Asia-Pacific,New Caledonia,1.0,85.2,1.0,1.0,1.0,2.8,1.0,10.4
+2050,Asia-Pacific,New Zealand,2.2,44.7,1.0,3.6,1.0,2.7,1.0,45.1
+2050,Latin America-Caribbean,Nicaragua,1.0,84.2,1.4,1.0,1.0,1.0,1.0,14.2
+2050,Sub-Saharan Africa,Niger,1.0,1.1,1.0,1.0,1.0,97.9,1.0,1.0
+2050,Sub-Saharan Africa,Nigeria,1.0,39.3,1.8,1.0,1.0,58.5,1.0,1.0
+2050,Asia-Pacific,Niue,1.0,96.4,1.0,1.0,1.0,1.0,1.0,3.3
+2050,Asia-Pacific,North Korea,1.5,2.0,12.3,1.0,1.0,1.0,12.9,71.3
+2050,Asia-Pacific,Northern Mariana Islands,10.6,81.3,5.3,1.0,1.0,1.0,1.1,1.0
+2050,Europe,Norway,1.5,73.7,1.0,1.0,1.0,8.9,1.0,14.5
+2050,Middle East-North Africa,Oman,1.0,5.5,1.0,5.7,1.0,87.3,1.0,1.0
+2050,Asia-Pacific,Pakistan,1.0,1.5,1.0,2.0,1.0,96.5,1.0,1.0
+2050,Asia-Pacific,Palau,1.0,86.7,1.0,1.0,1.0,1.0,10.4,1.2
+2050,Middle East-North Africa,Palestinian territories,1.0,1.4,1.0,1.0,1.0,98.5,1.0,1.0
+2050,Latin America-Caribbean,Panama,1.0,91.9,1.0,1.0,1.0,1.0,1.0,5.7
+2050,Asia-Pacific,Papua New Guinea,1.0,99.0,1.0,1.0,1.0,1.0,1.0,1.0
+2050,Latin America-Caribbean,Paraguay,1.0,96.8,1.8,1.0,1.0,1.0,1.0,1.1
+2050,Latin America-Caribbean,Peru,1.0,95.2,1.0,1.0,1.0,1.0,1.0,3.3
+2050,Asia-Pacific,Philippines,1.0,92.0,1.6,1.0,1.0,6.0,1.0,1.0
+2050,Europe,Poland,1.0,86.8,1.0,1.0,1.0,1.0,1.0,12.8
+2050,Europe,Portugal,1.0,86.3,1.0,1.0,1.0,1.3,1.0,11.3
+2050,Latin America-Caribbean,Puerto Rico,1.0,95.7,1.0,1.0,1.0,1.0,1.0,2.7
+2050,Middle East-North Africa,Qatar,4.1,12.6,1.0,17.1,1.0,64.6,1.0,1.0
+2050,Sub-Saharan Africa,Reunion,1.0,87.6,1.0,4.5,1.0,4.2,1.1,2.0
+2050,Europe,Romania,1.0,99.0,1.0,1.0,1.0,1.0,1.0,1.0
+2050,Europe,Russia,1.0,71.3,1.0,1.0,1.0,16.8,1.0,11.3
+2050,Sub-Saharan Africa,Rwanda,1.0,93.0,1.0,1.0,1.0,3.2,1.0,3.1
+2050,Sub-Saharan Africa,St. Helena,1.0,96.5,1.0,1.0,1.0,1.0,1.0,3.3
+2050,Latin America-Caribbean,St. Kitts and Nevis,1.0,94.6,1.3,1.5,1.0,1.0,1.0,1.6
+2050,Latin America-Caribbean,St. Lucia,1.0,93.0,1.0,1.0,1.0,1.0,1.4,4.9
+2050,North America,St. Pierre and Miquelon,1.0,94.7,1.0,1.0,1.0,1.0,1.3,3.8
+2050,Latin America-Caribbean,St. Vincent and the Grenadines,1.0,88.7,2.0,3.4,1.0,1.5,2.0,2.5
+2050,Asia-Pacific,Samoa,1.0,97.5,1.0,1.0,1.0,1.0,1.0,1.9
+2050,Europe,San Marino,1.0,91.6,1.0,1.0,1.0,1.0,1.0,7.2
+2050,Sub-Saharan Africa,Sao Tome and Principe,1.0,79.6,3.2,1.0,1.0,1.0,2.6,14.6
+2050,Middle East-North Africa,Saudi Arabia,1.0,4.0,1.0,1.6,1.0,93.1,1.0,1.0
+2050,Sub-Saharan Africa,Senegal,1.0,2.5,1.0,1.0,1.0,97.4,1.0,1.0
+2050,Europe,Serbia,1.0,88.4,1.0,1.0,1.0,8.1,1.0,3.4
+2050,Sub-Saharan Africa,Seychelles,1.0,94.0,1.0,2.1,1.0,1.1,1.0,2.1
+2050,Sub-Saharan Africa,Sierra Leone,1.0,18.5,1.0,1.0,1.0,80.4,1.0,1.0
+2050,Asia-Pacific,Singapore,27.0,17.0,2.8,10.0,1.0,21.4,5.6,16.0
+2050,Europe,Slovakia,1.0,79.5,1.0,1.0,1.0,1.0,1.0,19.0
+2050,Europe,Slovenia,1.0,75.0,1.0,1.0,1.0,4.7,1.0,20.2
+2050,Asia-Pacific,Solomon Islands,1.0,97.4,1.3,1.0,1.0,1.0,1.0,1.0
+2050,Sub-Saharan Africa,Somalia,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2050,Sub-Saharan Africa,South Africa,1.0,80.0,1.0,1.0,1.0,2.6,1.0,15.4
+2050,Asia-Pacific,South Korea,18.1,33.5,1.0,1.0,1.0,1.0,1.0,46.3
+2050,Europe,Spain,1.0,65.2,1.0,1.0,1.0,7.5,1.0,26.5
+2050,Asia-Pacific,Sri Lanka,66.8,6.8,1.0,14.0,1.0,12.3,1.0,1.0
+2050,Middle East-North Africa,Sudan,1.0,5.4,2.8,1.0,1.0,90.7,1.0,1.0
+2050,Latin America-Caribbean,Suriname,1.0,54.4,6.7,15.4,1.0,11.8,2.0,8.8
+2050,Sub-Saharan Africa,Swaziland,1.0,89.3,1.1,1.0,1.0,1.0,1.0,8.6
+2050,Europe,Sweden,1.2,52.3,1.0,1.0,1.0,12.4,1.0,32.8
+2050,Europe,Switzerland,1.0,61.9,1.0,1.0,1.0,7.6,1.0,28.4
+2050,Middle East-North Africa,Syria,1.0,5.1,1.0,1.0,1.0,92.8,1.0,2.0
+2050,Asia-Pacific,Taiwan,20.5,6.5,42.3,1.0,1.0,1.0,13.6,17.1
+2050,Asia-Pacific,Tajikistan,1.0,2.1,1.0,1.0,1.0,96.1,1.0,1.5
+2050,Sub-Saharan Africa,Tanzania,1.0,66.6,1.0,1.0,1.0,30.8,1.0,2.3
+2050,Asia-Pacific,Thailand,90.1,1.1,1.0,1.0,1.0,8.3,1.0,1.0
+2050,Asia-Pacific,Timor-Leste,1.0,99.0,1.0,1.0,1.0,1.0,1.0,1.0
+2050,Sub-Saharan Africa,Togo,1.0,36.7,42.3,1.0,1.0,14.0,1.0,6.4
+2050,Asia-Pacific,Tokelau,1.0,99.0,1.0,1.0,1.0,1.0,1.0,1.0
+2050,Asia-Pacific,Tonga,1.0,98.9,1.0,1.0,1.0,1.0,1.0,1.0
+2050,Latin America-Caribbean,Trinidad and Tobago,1.0,67.8,2.1,20.9,1.0,5.5,1.6,1.7
+2050,Middle East-North Africa,Tunisia,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2050,Asia-Pacific,Turkey,1.0,1.0,1.0,1.0,1.0,98.0,1.0,1.2
+2050,Asia-Pacific,Turkmenistan,1.0,6.5,1.0,1.0,1.0,92.9,1.0,1.0
+2050,Latin America-Caribbean,Turks and Caicos Islands,1.0,92.1,2.7,1.0,1.0,1.0,1.0,4.6
+2050,Asia-Pacific,Tuvalu,1.0,96.7,1.0,1.0,1.0,1.0,1.9,1.3
+2050,Sub-Saharan Africa,Uganda,1.0,84.3,1.0,1.0,1.0,13.9,1.0,1.0
+2050,Europe,Ukraine,1.0,89.2,1.0,1.0,1.0,3.7,1.0,6.6
+2050,Middle East-North Africa,United Arab Emirates,2.7,12.9,1.0,9.5,1.0,73.0,1.0,1.0
+2050,Europe,United Kingdom,1.0,45.4,1.0,2.0,1.0,11.3,1.0,38.9
+2050,North America,United States,1.4,66.4,1.0,1.2,1.4,2.1,1.5,25.6
+2050,Latin America-Caribbean,U.S. Virgin Islands,1.0,94.8,1.0,1.0,1.0,1.0,1.0,3.7
+2050,Latin America-Caribbean,Uruguay,1.0,56.5,1.0,1.0,1.0,1.0,1.0,42.1
+2050,Asia-Pacific,Uzbekistan,1.0,1.5,1.0,1.0,1.0,97.8,1.0,1.0
+2050,Asia-Pacific,Vanuatu,1.0,93.5,4.0,1.0,1.0,1.0,1.4,1.1
+2050,Latin America-Caribbean,Venezuela,1.0,89.6,1.0,1.0,1.0,1.0,1.0,9.2
+2050,Asia-Pacific,Vietnam,15.9,8.9,44.0,1.0,1.0,1.0,1.0,30.5
+2050,Asia-Pacific,Wallis and Futuna,1.0,97.4,1.2,1.0,1.0,1.0,1.0,1.0
+2050,Middle East-North Africa,Western Sahara,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2050,Middle East-North Africa,Yemen,1.0,1.0,1.0,1.0,1.0,99.0,1.0,1.0
+2050,Sub-Saharan Africa,Zambia,1.0,96.7,1.0,1.0,1.0,1.0,1.1,1.0
+2050,Sub-Saharan Africa,Zimbabwe,1.0,86.1,4.9,1.0,1.0,1.1,1.0,7.6
+2050,Sub-Saharan Africa,South Sudan,1.0,60.5,32.9,1.0,1.0,6.2,1.0,1.0
+2050,Latin America-Caribbean,Curacao,1.0,93.9,1.2,1.0,1.0,1.0,1.0,3.3
+2050,Latin America-Caribbean,Sint Maarten,1.0,93.9,1.2,1.0,1.0,1.0,1.0,3.3
+2050,Latin America-Caribbean,Caribbean Netherlands,1.0,93.9,1.2,1.0,1.0,1.0,1.0,3.3

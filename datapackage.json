@@ -1,0 +1,228 @@
+{
+  "name": ",
+  "title": "World Religion Projections ",
+  "resources": [
+    {
+      "path": "rounded_percentage.csv",
+      "pathType": "local",
+      "name": "by_rounded_percentage_share",
+      "title": "By rounded percentage share",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "ISO-8859-1",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\""
+      },
+      "schema": {"world-religion-projections
+        "fields": [
+          {
+            "name": "Year",
+            "title": "Year",
+            "type": "year",
+            "format": "default"
+          },
+          {
+            "name": "Region",
+            "title": "Region",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Country",
+            "title": "Country Name",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Buddhists",
+            "title": "Buddhists Religion",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "Christians",
+            "title": "Christians Religion",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "Folk Religions",
+            "title": "Folk Religion",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "Hindus",
+            "title": "Hindus Religion",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "Jews",
+            "title": "Jews Religion",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "Muslims",
+            "title": "Muslims Religion",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "Other Religions",
+            "title": "Other Religions",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "Unaffiliated",
+            "title": "Unaffiliated Religion",
+            "type": "number",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "path": "rounded_population.csv",
+      "pathType": "local",
+      "name": "by_number_of_population",
+      "title": "By number of population",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "ISO-8859-1",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\""
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "year",
+            "title": "year",
+            "format": "default"
+          },
+          {
+            "name": "Region",
+            "title": "Region",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Country",
+            "title": "Country Name",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Christians",
+            "title": "Christians Religion",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Muslims",
+            "title": "Muslims Religion",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Unaffiliated",
+            "title": "Unaffiliated Religion",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Hindus",
+            "title": "Hindus Religion",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Buddhists",
+            "title": "Buddhists Religion",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Folk Religions",
+            "title": "Folk Religion",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Other Religions",
+            "title": "Other Religion",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Jews",
+            "title": "Jews Religion",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "All Religions",
+            "title": "All Religion",
+            "type": "integer",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ],
+  "sources": [
+    {
+      "name": "PEW RESEARCH CENTER",
+      "path": "https://www.pewforum.org/2015/04/02/religious-projection-table/2010/percent/all/",
+      "title": "PEW RESEARCH CENTER"
+    }
+
+  ],
+  "views": [
+    {
+      "name ": "comparision-of-major-3-religions",
+      "title": "comparision of major 3 religions over the years",
+      "resources": [
+        {
+          "name": "by_number_of_population",
+          "transform": [
+            {
+              "type": "filter",
+              "expression": "data['Region'] == 'World'"
+            }
+          ]
+        }
+      ],
+      "spec": {
+        "type": "bar",
+        "group": "Year",
+        "series": [
+          "Christians",
+          "Muslims",
+          "Hindus"
+        ]
+      },
+      "specType": "simple"
+    }
+  ],
+  "readme": "This dataset contains the estimated religious composition of 198 countries and regions for 2010 to 2050.\n\n## Data\nThe data is sourced from  [PEW RESEARCH CENTER ](https://www.pewforum.org/2015/04/02/religious-projection-table/2010/percent/all/) \nIn original dataset  the number and percentage share  of followers for some religions as \"<10000\". Because of technical limitations of the visualization tool, these values had to be changed into \"10000\".\n \n### data/rounded_population.csv\nThis file contains the number followers by religions and region   for 2010 to 2050\n\n### data/rounded_percentage.csv.csv\nThis file contains the percentage share of followers by religions and region   for 2010 to 2050\n\n## License\n\nThis Data Package is licensed by its maintainers under the [Public Domain Dedication and License (PDDL)](http://opendatacommons.org/licenses/pddl/1.0/).\n",
+  "description": "This dataset contains the estimated religious composition of 198 countries and territories for 2010 ",
+  "licenses": [
+    {
+      "name": "ODC-PDDL",
+      "path": "http://opendatacommons.org/licenses/pddl/",
+      "title": "Open Data Commons Public Domain Dedication and License"
+    }
+  ]
+}
