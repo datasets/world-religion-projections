@@ -14,7 +14,7 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "schema": {"world-religion-projections
+      "schema": {
         "fields": [
           {
             "name": "Year",
