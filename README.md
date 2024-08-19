@@ -2,7 +2,7 @@ This dataset contains the estimated religious composition of 198 countries and t
 
 ## Data
 The data is sourced from  [PEW RESEARCH CENTER ](https://www.pewforum.org/2015/04/02/religious-projection-table/2010/percent/all/).
-In original dataset  the number and the percentage share  of followers for some religions as "{"<"}10000" and "<10%". Because of technical limitations of the visualization tool, these values had to be changed into "10000".
+In original dataset  the number and the percentage share  of followers for some religions as "{"<"}10000" and "{"<"}10%". Because of technical limitations of the visualization tool, these values had to be changed into "10000".
 
 ### data/rounded_population.csv
 This file contains the number followers by religions and region for 2010 to 2050
