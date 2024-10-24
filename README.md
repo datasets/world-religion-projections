@@ -1,3 +1,5 @@
+<a href="https://datahub.io/core/world-religion-projections"><img src="https://badgen.net/badge/icon/View%20on%20datahub.io/orange?icon=https://datahub.io/datahub-cube-badge-icon.svg&label&scale=1.25)" alt="badge" /></a>
+
 This dataset contains the estimated religious composition of 198 countries and territories for 2010 to 2050.
 
 ## Data
