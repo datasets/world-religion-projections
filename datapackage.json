@@ -179,6 +179,50 @@
           ""
         ]
       }
+    },
+    {
+      "path": "world.csv",
+      "pathType": "local",
+      "name": "world-major-3-religions",
+      "title": "World major 3 religions",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\""
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "title": "Year",
+            "type": "year",
+            "format": "default"
+          },
+          {
+            "name": "Christians",
+            "title": "Christians Religion",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Muslims",
+            "title": "Muslims Religion",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Hindus",
+            "title": "Hindus Religion",
+            "type": "integer",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
     }
   ],
   "sources": [
@@ -187,25 +231,16 @@
       "path": "https://www.pewforum.org/2015/04/02/religious-projection-table/2010/percent/all/",
       "title": "PEW RESEARCH CENTER"
     }
-
   ],
   "views": [
     {
       "name": "comparision-of-major-3-religions",
       "title": "comparision of major 3 religions over the years",
       "resources": [
-        {
-          "name": "by_number_of_population",
-          "transform": [
-            {
-              "type": "filter",
-              "expression": "data['Region'] == 'World'"
-            }
-          ]
-        }
+        "world-major-3-religions"
       ],
       "spec": {
-        "type": "bar",
+        "type": "line",
         "group": "Year",
         "series": [
           "Christians",
