@@ -1,12 +1,28 @@
 {
   "name": "world-religion-projections",
-  "title": "World Religion Projections ",
+  "title": "World Religion Projections",
+  "description": "This dataset contains the estimated religious composition of 198 countries and territories for 2010 to 2050.",
+  "licenses": [
+    {
+      "name": "ODC-PDDL-1.0",
+      "path": "https://opendatacommons.org/licenses/pddl/",
+      "title": "Open Data Commons Public Domain Dedication and License"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pew Research Center",
+      "path": "https://www.pewresearch.org/religion/2015/04/02/religious-projections-2010-2050/",
+      "title": "The Future of World Religions: Population Growth Projections, 2010-2050"
+    }
+  ],
   "resources": [
     {
       "path": "rounded_percentage.csv",
       "pathType": "local",
       "name": "by_rounded_percentage_share",
       "title": "By rounded percentage share",
+      "description": "Percentage share of each religious group by country and region for 2010 to 2050 in 10-year increments. Values shown as '<1%' in the original Pew source have been set to 1.0.",
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "ISO-8859-1",
@@ -20,67 +36,78 @@
             "name": "Year",
             "title": "Year",
             "type": "year",
-            "format": "default"
+            "format": "default",
+            "description": "Projection year (2010, 2020, 2030, 2040, or 2050)."
           },
           {
             "name": "Region",
             "title": "Region",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "Geographic region (e.g. 'World', 'Asia-Pacific', 'Europe')."
           },
           {
             "name": "Country",
             "title": "Country Name",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "Country or territory name. 'All Countries' denotes the regional aggregate row."
           },
           {
             "name": "Buddhists",
             "title": "Buddhists Religion",
             "type": "number",
-            "format": "default"
+            "format": "default",
+            "description": "Estimated percentage share of Buddhists in the total population. Values below 1% in the source are represented as 1.0."
           },
           {
             "name": "Christians",
             "title": "Christians Religion",
             "type": "number",
-            "format": "default"
+            "format": "default",
+            "description": "Estimated percentage share of Christians in the total population. Values below 1% in the source are represented as 1.0."
           },
           {
             "name": "Folk Religions",
             "title": "Folk Religion",
             "type": "number",
-            "format": "default"
+            "format": "default",
+            "description": "Estimated percentage share of folk religion adherents in the total population. Values below 1% in the source are represented as 1.0."
           },
           {
             "name": "Hindus",
             "title": "Hindus Religion",
             "type": "number",
-            "format": "default"
+            "format": "default",
+            "description": "Estimated percentage share of Hindus in the total population. Values below 1% in the source are represented as 1.0."
           },
           {
             "name": "Jews",
             "title": "Jews Religion",
             "type": "number",
-            "format": "default"
+            "format": "default",
+            "description": "Estimated percentage share of Jews in the total population. Values below 1% in the source are represented as 1.0."
           },
           {
             "name": "Muslims",
             "title": "Muslims Religion",
             "type": "number",
-            "format": "default"
+            "format": "default",
+            "description": "Estimated percentage share of Muslims in the total population. Values below 1% in the source are represented as 1.0."
           },
           {
             "name": "Other Religions",
             "title": "Other Religions",
             "type": "number",
-            "format": "default"
+            "format": "default",
+            "description": "Estimated percentage share of adherents of other religions not separately categorized. Values below 1% in the source are represented as 1.0."
           },
           {
             "name": "Unaffiliated",
             "title": "Unaffiliated Religion",
             "type": "number",
-            "format": "default"
+            "format": "default",
+            "description": "Estimated percentage share of religiously unaffiliated people (including atheists, agnostics, and those with no particular religion). Values below 1% in the source are represented as 1.0."
           }
         ],
         "missingValues": [
@@ -93,6 +120,7 @@
       "pathType": "local",
       "name": "by_number_of_population",
       "title": "By number of population",
+      "description": "Estimated population count of each religious group by country and region for 2010 to 2050 in 10-year increments. Values shown as '<10,000' in the original Pew source have been set to 10,000.",
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "ISO-8859-1",
@@ -104,75 +132,87 @@
         "fields": [
           {
             "name": "Year",
+            "title": "Year",
             "type": "year",
-            "title": "year",
-            "format": "default"
+            "format": "default",
+            "description": "Projection year (2010, 2020, 2030, 2040, or 2050)."
           },
           {
             "name": "Region",
             "title": "Region",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "Geographic region (e.g. 'World', 'Asia-Pacific', 'Europe')."
           },
           {
             "name": "Country",
             "title": "Country Name",
             "type": "string",
-            "format": "default"
+            "format": "default",
+            "description": "Country or territory name. 'All Countries' denotes the regional aggregate row."
           },
           {
             "name": "Christians",
             "title": "Christians Religion",
             "type": "integer",
-            "format": "default"
+            "format": "default",
+            "description": "Estimated number of Christians. Values below 10,000 in the source are represented as 10,000."
           },
           {
             "name": "Muslims",
             "title": "Muslims Religion",
             "type": "integer",
-            "format": "default"
+            "format": "default",
+            "description": "Estimated number of Muslims. Values below 10,000 in the source are represented as 10,000."
           },
           {
             "name": "Unaffiliated",
             "title": "Unaffiliated Religion",
             "type": "integer",
-            "format": "default"
+            "format": "default",
+            "description": "Estimated number of religiously unaffiliated people (including atheists, agnostics, and those with no particular religion). Values below 10,000 in the source are represented as 10,000."
           },
           {
             "name": "Hindus",
             "title": "Hindus Religion",
             "type": "integer",
-            "format": "default"
+            "format": "default",
+            "description": "Estimated number of Hindus. Values below 10,000 in the source are represented as 10,000."
           },
           {
             "name": "Buddhists",
             "title": "Buddhists Religion",
             "type": "integer",
-            "format": "default"
+            "format": "default",
+            "description": "Estimated number of Buddhists. Values below 10,000 in the source are represented as 10,000."
           },
           {
             "name": "Folk Religions",
             "title": "Folk Religion",
             "type": "integer",
-            "format": "default"
+            "format": "default",
+            "description": "Estimated number of folk religion adherents. Values below 10,000 in the source are represented as 10,000."
           },
           {
             "name": "Other Religions",
             "title": "Other Religion",
             "type": "integer",
-            "format": "default"
+            "format": "default",
+            "description": "Estimated number of adherents of other religions not separately categorized. Values below 10,000 in the source are represented as 10,000."
           },
           {
             "name": "Jews",
             "title": "Jews Religion",
             "type": "integer",
-            "format": "default"
+            "format": "default",
+            "description": "Estimated number of Jews. Values below 10,000 in the source are represented as 10,000."
           },
           {
             "name": "All Religions",
             "title": "All Religion",
             "type": "integer",
-            "format": "default"
+            "format": "default",
+            "description": "Estimated total population across all religious groups combined."
           }
         ],
         "missingValues": [
@@ -185,6 +225,7 @@
       "pathType": "local",
       "name": "world-major-3-religions",
       "title": "World major 3 religions",
+      "description": "World-level population totals for the three largest religious groups (Christians, Muslims, and Hindus) for 2010 to 2050 in 10-year increments.",
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
@@ -198,38 +239,35 @@
             "name": "Year",
             "title": "Year",
             "type": "year",
-            "format": "default"
+            "format": "default",
+            "description": "Projection year (2010, 2020, 2030, 2040, or 2050)."
           },
           {
             "name": "Christians",
             "title": "Christians Religion",
             "type": "integer",
-            "format": "default"
+            "format": "default",
+            "description": "Estimated global number of Christians."
           },
           {
             "name": "Muslims",
             "title": "Muslims Religion",
             "type": "integer",
-            "format": "default"
+            "format": "default",
+            "description": "Estimated global number of Muslims."
           },
           {
             "name": "Hindus",
             "title": "Hindus Religion",
             "type": "integer",
-            "format": "default"
+            "format": "default",
+            "description": "Estimated global number of Hindus."
           }
         ],
         "missingValues": [
           ""
         ]
       }
-    }
-  ],
-  "sources": [
-    {
-      "name": "PEW RESEARCH CENTER",
-      "path": "https://www.pewforum.org/2015/04/02/religious-projection-table/2010/percent/all/",
-      "title": "PEW RESEARCH CENTER"
     }
   ],
   "views": [
@@ -251,13 +289,5 @@
       "specType": "simple"
     }
   ],
-  "readme": "This dataset contains the estimated religious composition of 198 countries and regions for 2010 to 2050.\n\n## Data\nThe data is sourced from  [PEW RESEARCH CENTER ](https://www.pewforum.org/2015/04/02/religious-projection-table/2010/percent/all/) \nIn original dataset  the number and percentage share  of followers for some religions as \"<10000\". Because of technical limitations of the visualization tool, these values had to be changed into \"10000\".\n \n### data/rounded_population.csv\nThis file contains the number followers by religions and region   for 2010 to 2050\n\n### data/rounded_percentage.csv.csv\nThis file contains the percentage share of followers by religions and region   for 2010 to 2050\n\n## License\n\nThis Data Package is licensed by its maintainers under the [Public Domain Dedication and License (PDDL)](http://opendatacommons.org/licenses/pddl/1.0/).\n",
-  "description": "This dataset contains the estimated religious composition of 198 countries and territories for 2010 ",
-  "licenses": [
-    {
-      "name": "ODC-PDDL",
-      "path": "http://opendatacommons.org/licenses/pddl/",
-      "title": "Open Data Commons Public Domain Dedication and License"
-    }
-  ]
+  "readme": "This dataset contains the estimated religious composition of 198 countries and territories for 2010 to 2050.\n\n## Data\nThe data is sourced from [Pew Research Center](https://www.pewresearch.org/religion/2015/04/02/religious-projections-2010-2050/).\nIn the original dataset, the number of followers for some religions was shown as \"<10,000\" and the percentage share as \"<1%\". Because of technical limitations of the visualization tool, population counts below 10,000 were set to 10,000 and percentage shares below 1% were set to 1.0.\n\n### rounded_population.csv\nThis file contains the number of followers by religion and region for 2010 to 2050.\n\n### rounded_percentage.csv\nThis file contains the percentage share of followers by religion and region for 2010 to 2050.\n\n## License\n\nThis Data Package is licensed by its maintainers under the [Public Domain Dedication and License (PDDL)](https://opendatacommons.org/licenses/pddl/).\n"
 }
