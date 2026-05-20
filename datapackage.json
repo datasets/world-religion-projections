@@ -4,9 +4,9 @@
   "description": "This dataset contains the estimated religious composition of 198 countries and territories for 2010 to 2050.",
   "licenses": [
     {
-      "name": "ODC-PDDL-1.0",
-      "path": "https://opendatacommons.org/licenses/pddl/",
-      "title": "Open Data Commons Public Domain Dedication and License"
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
     }
   ],
   "sources": [

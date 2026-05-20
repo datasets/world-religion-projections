@@ -14,4 +14,4 @@ This file contains the percentage share of followers by religion and region for 
 
 ## License
 
-This Data Package is licensed by its maintainers under the [Public Domain Dedication and License (PDDL)](https://opendatacommons.org/licenses/pddl/).
+This Data Package is made available under the [Creative Commons Attribution 4.0 International license (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Attribution to [Pew Research Center](https://www.pewresearch.org/) is required.
